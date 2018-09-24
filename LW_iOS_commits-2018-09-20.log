@@ -1,0 +1,4562 @@
+* commit a79e57812081c0594dc5703e78fb7c63707f0426
+| Author: Vishal Gohel <Vishal.gohel@arusys.com>
+| Date:   Thu Sep 20 21:43:57 2018 +0530
+| 
+|     dynamic form resolved issues and added document certificate control.
+| 
+* commit 9db7560b060fc2faf354946d71e1f4e52cf92b36
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 19 20:27:22 2018 +0530
+| 
+|     manage profile verification and requested by view in olde version and other old version issues
+| 
+* commit 5bf8301779f1b8ee698a676caa6787ed103b7309
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 19 15:23:46 2018 +0530
+| 
+|     company profile redesign
+| 
+* commit 2203e658e2e031849ac92ddf667950dc4c6ac66c
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 18 20:50:15 2018 +0530
+| 
+|     Company profile design
+| 
+* commit 2bf35ec3c42560d9a1a304ae50600ba3036d6ad9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 18 11:30:09 2018 +0530
+| 
+|     profile storyboard update
+| 
+* commit 50643e97bed10f730ef61af8af63f3898eb7501e
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Sep 17 20:54:11 2018 +0530
+| 
+|     resolved validation issues, removed html tag, redesign biometric screen.
+| 
+* commit 055137441ed06fdf7850d9b3a8caf779e0b7f61d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Sep 15 19:24:27 2018 +0530
+| 
+|     dynamic form file upload and submit form, also added validations
+| 
+* commit 84ab43144dcc2fd533c80e63aedd625b4df1f7dc
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Sep 13 22:40:11 2018 +0530
+| 
+|     fileControl manage
+| 
+* commit 06847d146ebd1f33621ede07d613839dc4e3a438
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Sep 13 19:47:27 2018 +0530
+| 
+|     textarea control manage
+| 
+* commit 537911bfcd6ba9546cebf24b4d9835a0fe0cc82f
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 20:01:21 2018 +0530
+| 
+|     Button control for dynamic form
+| 
+* commit 368994afb98500aefc97a8f4da10fca098167d9f
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 12 16:44:08 2018 +0530
+| 
+|     Added image control in dynamic form
+| 
+* commit 0c987a5d570b6ddd8d17e18bcf49256b7c763993
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 22:40:55 2018 +0530
+| 
+|     Textfield with animations
+| 
+* commit 8bf9ba4b284514846bc90014a424fe18b7faf296
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 16:11:38 2018 +0530
+| 
+|     Form data add rating ui
+| 
+* commit 20b47a44d00331b522df7da6fbe7e8dbda2f9b74
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 10:33:37 2018 +0530
+| 
+|     Removed requested state users for other user profile.
+| 
+* commit bf2b5e190f717302012a134b3945600741946eb9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 11 07:58:39 2018 +0530
+| 
+|     Notification badge in notification icon, % update issue, navigate on profile when search on profile in safari and form controller
+| 
+* commit d33e5c417157624c6beb0d638bd2e35f639faeee
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 5 20:28:08 2018 +0530
+| 
+|     form data display
+| 
+* commit 1d5400246c8d529c1a7d19225445cb6dff371d99
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Sep 5 11:01:25 2018 +0530
+| 
+|     userprofile navigation issue resolved
+| 
+* commit 87e276527a54c7d890f303008b41ead8e1a42728
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 4 23:24:54 2018 +0530
+| 
+|     Dynamic form
+| 
+* commit 5b124ddd2483496c7cec8739ee7701eb2316c3dd
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Sep 4 08:56:15 2018 +0530
+| 
+|     new ui designs
+| 
+* commit d490598aa254d9574759b4ee9e8b6a5dd26535f9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Aug 30 11:51:56 2018 +0530
+| 
+|     menu title color changed
+| 
+* commit 20da2920146a7c5777797e4f7bce6859a39ebc34
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Aug 30 02:33:49 2018 +0530
+| 
+|     Registration form flow
+| 
+* commit d1b2a221c7a99b65ce96b4c9bb47d559a99603ff
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Aug 29 23:10:07 2018 +0530
+| 
+|     search screen design and register screens
+| 
+* commit 0072cf14c8584eff17e0adeba6043a9046b86d44
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Aug 29 15:12:58 2018 +0530
+| 
+|     user image upload from profile screen
+|   
+*   commit 94f3bf1cc699b99c3a05adcfd9ac9cd82f8c410a
+|\  Merge: 823dfd07 59afce47
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 29 13:00:59 2018 +0530
+| | 
+| |     Merge branch 'master' into UIUpgradation
+| |     
+| |     * master:
+| |       Update code for image upload in user profile
+| | 
+| * commit 59afce476415fbe2128991461764b3da525d756f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 29 12:57:39 2018 +0530
+| | 
+| |     Update code for image upload in user profile
+| | 
+* | commit 823dfd0704d9639348df40a854d25cf8bfbb6e83
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 29 11:34:03 2018 +0530
+| | 
+| |     add GIF/Animation in splash screen
+| | 
+* | commit 095a666b36a5d51b375b14ba001c32961eeba2e8
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Aug 28 16:59:13 2018 +0530
+| | 
+| |     Menu screen redesign
+| | 
+* | commit 7e24feca9021a48eeeff5bced46bbcf8a6c6db9d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Aug 27 21:37:28 2018 +0530
+| | 
+| |     smooth transition on experience, education, project and other doc screen.
+| | 
+* | commit 88a48a51008cc1636310b40162bdd57a342d57a7
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Aug 27 21:29:37 2018 +0530
+| | 
+| |     experience, education, projects and other doc screens, navigate to user profile when tapped on icon.
+| | 
+* | commit 31a0f8d52231a918f150e52a840b1fd69a707d65
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Aug 24 12:02:56 2018 +0530
+| | 
+| |     user profile social image change and increase header font size
+| | 
+* | commit 4615c6fe3463dfdc75a792f4b9d266d00a9537c0
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Aug 24 11:43:20 2018 +0530
+| | 
+| |     user profile screen design changes
+| |   
+* |   commit a8e90ac7a0514b99e524fd0372727a1ffb53a932
+|\ \  Merge: cd2a970b 840c9cc5
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Thu Aug 23 16:00:44 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into UIUpgradation
+| |       
+| |       * Vishal:
+| |         display data according to request in verify others data section.
+| |         text area added
+| | 
+| * commit 840c9cc50d7c52e16588e17fcd848725553235fe
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 15:26:05 2018 +0530
+| | 
+| |     display data according to request in verify others data section.
+| | 
+| * commit c0a36b126026ee875ecf5a82147413723de3a0f2
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 12:45:43 2018 +0530
+| | 
+| |     text area added
+| |   
+* |   commit cd2a970bf07f34ddec3f92527d5d1e2b7324a5de
+|\ \  Merge: 9edd19b8 ff7c2e55
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Thu Aug 23 12:43:57 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into UIUpgradation
+| |       
+| |       * Vishal:
+| |         company image display on experience list and user profile
+| |         add company image url database
+| |         issue id card certificate image display issue
+| |         dynamic form
+| |       
+| |       # Conflicts:
+| |       #       LynkedWorld.xcodeproj/project.pbxproj
+| | 
+| * commit ff7c2e55f6899222ce0f085e83d6de694e5b7474
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 12:03:11 2018 +0530
+| | 
+| |     company image display on experience list and user profile
+| | 
+| * commit 7d27a9976849e7e2a70c0b4c779afd032429da62
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 11:46:36 2018 +0530
+| | 
+| |     add company image url database
+| | 
+| * commit e898aa6199750a6cc6235d56f1dbe86637dabff2
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 11:34:12 2018 +0530
+| | 
+| |     issue id card certificate image display issue
+| | 
+* | commit 9edd19b8447e410a94aec88f39bc6b480a41d734
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 23 11:31:49 2018 +0530
+| | 
+| |     connection screen and user profile screen
+| | 
+| * commit 8b60fd73fccbb1cc652ce17d57b47b14ebd4de4a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Aug 21 11:13:45 2018 +0530
+| | 
+| |     dynamic form
+| | 
+* | commit 87388c577f5fffc4d1f3273bf190f1b0ca96d8de
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Aug 20 11:25:20 2018 +0530
+| | 
+| |     Connection Screen design
+| | 
+* | commit 10de252babfd3923e5de3117e81affb58fdb6ea4
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Aug 17 11:31:10 2018 +0530
+| | 
+| |     Wallet screen
+| | 
+* | commit ecf14cf9cf0ff4384d6086a95bcf7a64f00396eb
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Aug 14 10:23:59 2018 +0530
+| | 
+| |     USerProfile page design
+| | 
+* | commit e24086504d40f2c10a64afd9b5a1e5b636159fbe
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Aug 11 11:52:31 2018 +0530
+| | 
+| |     UserProfile new design
+| |   
+* |   commit e78543d8ea39d8187a2b61293f8e7a6c834ae500
+|\ \  Merge: 132a2b5d 45b15121
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Thu Aug 9 11:57:27 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into UIUpgradation
+| |       
+| |       * Vishal:
+| |         added other doc informations in request data access completions.
+| |         Dev - Notification logo missing, full address when verifying data and other issues
+| |         Refer a friend message change, Manage socialmedia update and other issues.
+| |         social network Data Update
+| | 
+| * commit 45b1512139986f90c8588c980244ee6a0c237415
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 9 11:05:25 2018 +0530
+| | 
+| |     added other doc informations in request data access completions.
+| | 
+| * commit ba03a037ea352967591f38dd63f3b0b6bc585446
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 8 19:43:40 2018 +0530
+| | 
+| |     Dev - Notification logo missing, full address when verifying data and other issues
+| | 
+| * commit e9bbe943ac52c5375d8caf2a4b0f16874ef7b653
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 8 10:41:41 2018 +0530
+| | 
+| |     Refer a friend message change, Manage socialmedia update and other issues.
+| | 
+| * commit 3daaca9dbede5bc0b4d6e630b0981512304df102
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Aug 7 10:29:45 2018 +0530
+| | 
+| |     social network Data Update
+| | 
+* | commit 132a2b5d5e3e8b5c9717b33a24336836d38fccc9
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Aug 6 19:42:34 2018 +0530
+| | 
+| |     Home page LBD display, dynamic percentage and color added, and other issues.
+| | 
+* | commit 3315c37c8b2d42eca5d91b6288e8a10733b5133d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Aug 6 12:44:46 2018 +0530
+| | 
+| |     minor changes in home screen
+| | 
+* | commit 88cd7e511b283082bbde38f3fb8133c103188854
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Aug 4 22:16:06 2018 +0530
+| | 
+| |     HomePage Design with animations
+| | 
+* | commit cc438a5b7506d5050d55792cbf62aaf29ed45c69
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Aug 3 12:28:08 2018 +0530
+| | 
+| |     user details for home screen
+| | 
+* | commit 7b27dca2c4b452aee5b9be11794197593ac2cd5c
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 22:30:37 2018 +0530
+| | 
+| |     design home page changes
+| |   
+* |   commit a0d1d40a601bf745896ee89a42e643b4771f46a3
+|\ \  Merge: 63468698 548b0248
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Thu Aug 2 18:12:52 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into UIUpgradation
+| |       
+| |       * Vishal:
+| |         manage textfield in older version
+| |         old version textfield issued, and post related issues
+| |         Manage social media naviagation issue, post detail comment issue
+| |         Resolve Spell error in get verified.
+| | 
+| * commit 548b02484684668464fad2ea2edf4b7d9b5adb75
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 18:11:49 2018 +0530
+| | 
+| |     manage textfield in older version
+| | 
+| * commit f393346b5373eda71f252481fbd413d127c9b182
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 17:10:56 2018 +0530
+| | 
+| |     old version textfield issued, and post related issues
+| | 
+| * commit fd356ee377c9361927a43796c86345e083ce4d29
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 15:13:12 2018 +0530
+| | 
+| |     Manage social media naviagation issue, post detail comment issue
+| | 
+| * commit 00d79119347b2a20fc7753878d72996fa1225c1f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 12:22:17 2018 +0530
+| | 
+| |     Resolve Spell error in get verified.
+| | 
+* | commit 634686985849e185c6d099e503a54a3fd843c736
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 12:02:43 2018 +0530
+| | 
+| |     color change according to design
+| | 
+* | commit 0043a0fdc1accb46f3b969e105fbd39bf23537b1
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Aug 2 11:10:27 2018 +0530
+| | 
+| |     Home page design and avatar logo animations.
+| | 
+* | commit abb1f2fec3e6c80e4ec34717f97d43d55987c709
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Aug 1 10:34:32 2018 +0530
+| | 
+| |     Added Avatar view
+| | 
+* | commit 8eb7485852356d7b8a07dcfebfa24cc33e16ae71
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Tue Jul 31 15:52:05 2018 +0530
+|   
+|       set home page design labels
+| 
+* commit b1f3b62b3784427b9ffe20752bbf7b64d776f995
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 31 15:41:43 2018 +0530
+| 
+|     Add new class for landing home page
+| 
+* commit b26e4f0eb68dff5e1e0719daba351b0127684c08
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 31 14:45:33 2018 +0530
+| 
+|     resolve delete issue on identity, manage company profile details and other task.
+| 
+* commit e015d304a58e7c17cf323fe7aef68fc1a643cc0f
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Jul 27 10:41:50 2018 +0530
+| 
+|     Request document access misssing data, vishal baidya samaj and other issues
+| 
+* commit 0ab7ee13305b5d065e302d6b94382de0a1fad8c1
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jul 25 11:33:07 2018 +0530
+| 
+|     Vishal Vaidya samaj QRScan functionality
+| 
+* commit 1c47c638198109ee828451d40c84e0a5bb999b8d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 24 15:34:32 2018 +0530
+| 
+|     first commit after new repo
+| 
+* commit bb6663432211c370a090cdd185f818d67a46074a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 24 13:06:20 2018 +0530
+| 
+|     Vishal Vaidya Samaj form
+| 
+* commit 22652dfd28a65fe134ffd7deffc5040ec26bd558
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jul 19 11:17:18 2018 +0530
+| 
+|     Company Follow/Unfollow and other issues
+| 
+* commit 46359de394b81fd73181477ca3722e568c6d5d4c
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 17 10:48:49 2018 +0530
+| 
+|     issue country name added
+| 
+* commit 06e3b5b2f2a6a4495138d9b066d860d0b08c365d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jul 16 17:05:37 2018 +0530
+| 
+|     manage description text visible while edit it.
+| 
+* commit d2f09052e07af042f7e77133ae29a950bd17a5b9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jul 16 16:58:48 2018 +0530
+| 
+|     membership form and other issues
+| 
+* commit 17a2549ad584535f0a66b1010aa7ef6e76fa3273
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 10 18:53:29 2018 +0530
+| 
+|     Like issue fixed, state issue fixed in add address, QRCode button title changed, delete button changed on member list of company, update member list once user added and other issues
+| 
+* commit 69d85a4ee8e380fd1781274dae7b8b79cd5659b4
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jul 9 18:28:25 2018 +0530
+| 
+|     added notes in education, experience and project section.
+| 
+* commit 2a1ea761638270d00939c09f7d5fb55d7414e677
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jul 9 14:42:49 2018 +0530
+| 
+|     Hide Job posted, added Hyperlink on company Page, Remove html Tag from Feed Comments.
+| 
+* commit 509e13caa2ad2893614040f57a318119b1bf53dc
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jul 9 11:31:20 2018 +0530
+| 
+|     added issues id card functionality and other issues fixed
+| 
+* commit 48c654448257d36348278141d3bbb262459a862b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 3 23:45:35 2018 +0530
+| 
+|     Delete Document and other issues
+| 
+* commit e4a7dc4f50f340dbd5ebf1723d724ed875bde9a0
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jul 3 10:16:56 2018 +0530
+| 
+|     bengali samaj form and other document viewer issues resolved
+| 
+* commit 92058114c42c852d8ccfd567fb4a9b4d1d340dc9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Jun 29 00:34:18 2018 +0530
+| 
+|     notification navigation and other tasks
+| 
+* commit 0e3ebf9225266e1f80dfe17b8b3d3c0b1f38a54c
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 28 15:13:07 2018 +0530
+| 
+|     Add new form for bengali Samaj Membership form.
+| 
+* commit 30c35fc2d545b98394cfa04c2c49b75c98bd839c
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 28 10:48:21 2018 +0530
+| 
+|     Refer a friend screen added and other task
+| 
+* commit a09fd63c3a0e98ff2d84a082e4189a0199e272db
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 18:37:34 2018 +0530
+| 
+|     Preview added when tapped on feed image.
+| 
+* commit c9c2f092edb062f770acbf5b487af7fecd14425b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 17:14:27 2018 +0530
+| 
+|     feed image ratio manage
+| 
+* commit b313dcc74d9f7f8cc6f2902a7a2912d2280edcc2
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 17:12:08 2018 +0530
+| 
+|     get verified - added popup for search user/company.
+| 
+* commit 98e3fe409854c11c06df05c2d2c51f230616bda6
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 16:03:47 2018 +0530
+| 
+|     Meet The team - Add/Delete team members
+| 
+* commit a74dfe8df6d889b0d2a0e4d9a458dd0c065e896b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 16:03:17 2018 +0530
+| 
+|     remove html tag from edit post.
+| 
+* commit 5eaf3ea4e31f366a828050391db71e83b396ad31
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 12:59:44 2018 +0530
+| 
+|     Hide share label from feed
+| 
+* commit 474bdd74085bbf69b5ed93f28ea04c2ce03f8a74
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Jun 27 12:37:05 2018 +0530
+| 
+|     Company add team member and other task
+| 
+* commit 7618ec2ca333f5617c2bbc192d80bbd32ceb124a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 26 10:11:19 2018 +0530
+| 
+|     Manage feed and other task
+| 
+* commit cdf199cc1d74d8493ab499e4fa39adebf5558a61
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Jun 22 00:57:38 2018 +0530
+| 
+|     Feed like, comment and reply on comment functionality.
+| 
+* commit 7dc0ab4a43e60c559644f9e53e639e2e11984a8a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 19 15:24:50 2018 +0530
+| 
+|     Feed Comment Detail screen manage
+| 
+* commit 0658b96b09277c220f230abf76ca08dfb0bc87ca
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Jun 18 10:29:17 2018 +0530
+| 
+|     Feed comment design changes and other task
+| 
+* commit f0a5f02466c52bac894a30771bf5013970260e5d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 14 20:51:01 2018 +0530
+| 
+|     manage push notification and other issues
+| 
+* commit f9681e27ba978bf4e3352a4f2c5a9ff08ad1a4db
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 14 16:56:27 2018 +0530
+| 
+|     own data manage
+| 
+* commit b3c7a85dfd2563a993f9126f1239e5395e897b78
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 14 16:43:58 2018 +0530
+| 
+|     identity list display only own records
+| 
+* commit 851933f8dc6be8746aca002ab9e984e7f3daee06
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 14 15:31:42 2018 +0530
+| 
+|     appsflyer events added
+| 
+* commit 134aefdff26f2e50433a200d658c4b7abdb70e91
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Jun 14 12:40:58 2018 +0530
+| 
+|     Manage Organization and other issues
+| 
+* commit ba470387fa3480cc845ce9f9f8701c6cbddff00a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 12 11:46:36 2018 +0530
+| 
+|     organization add and other issues
+| 
+* commit 213afc549fee17bac9fdbe12147acb5c559970b5
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 5 23:12:43 2018 +0530
+| 
+|     complete request history
+| 
+* commit 052e8224053e5e05e390ceb585b55678730feb35
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 5 12:44:39 2018 +0530
+| 
+|     Added user agreement link and other ui fixes
+| 
+* commit 1f86cdec88a13a36abfc720eb751079e269dc0c9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Jun 5 10:42:42 2018 +0530
+| 
+|     notification navigation and other task
+| 
+* commit 3b383569a4ecb045f351b62cadf0fd340a2c2437
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Jun 1 10:37:04 2018 +0530
+| 
+|     manage profile search and other issues
+| 
+* commit 601a6b2969d08811c4867881ca109b28d81b7c35
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 31 11:48:25 2018 +0530
+| 
+|     Document image orientation issue resolved and startup screen flow manage
+| 
+* commit 5d3633dd78d395b586b2d77a89119526f05f9ed4
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 31 00:06:18 2018 +0530
+| 
+|     integrate appsflayer library
+| 
+* commit 85a541be8ec8474492935cf7428cd0b6b6b6fc9f
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 31 00:05:52 2018 +0530
+| 
+|     startup screen and other issues
+| 
+* commit 4aaee6b6305562d20b2326c9e22ef458f57fb956
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon May 28 19:49:20 2018 +0530
+| 
+|     Document preview in verification history and verify other data, added navigation bar in document picker and other task
+| 
+* commit d6c9dc85f677dd7f733ef934339f6dedcc40de9d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri May 25 13:47:47 2018 +0530
+| 
+|     Remove dislike from feed and manage alert to enable icloud to backup
+| 
+* commit 32dfdb174388c86185caf940b2d3a012ce2e7697
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri May 25 01:15:41 2018 +0530
+| 
+|     manage backup for contacts and cosmetic changes
+| 
+* commit f7d460c0bf76321fa1d9424a120a1eafe04c6034
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 24 16:49:58 2018 +0530
+| 
+|     Crashlititcs added and some other issues manage
+| 
+* commit 4042f0e4e7713a98f0675924f06246af14f9ae05
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 24 10:57:19 2018 +0530
+| 
+|     manage notification and cosmetic ui channges
+| 
+* commit 9e918082e460465692d3cf576c3f8c4d2a282f13
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon May 21 23:47:52 2018 +0530
+| 
+|     Profile header set
+| 
+* commit b08c4f9b2bd1d907aaf8affc0739462e4d7972f6
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon May 21 18:37:19 2018 +0530
+| 
+|     QRCode library write and other tasks.
+| 
+* commit 04b476853b841a65ad9cc2f8f454d58f79371bb5
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon May 21 10:44:58 2018 +0530
+| 
+|     change firebase account
+| 
+* commit b352d984da080797726348b435d5d8250c4c453d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri May 18 20:46:52 2018 +0530
+| 
+|     notification counter manage
+| 
+* commit 7faf249d1ab1ec5ef4fea4c944158c58d5a699ec
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri May 18 12:21:30 2018 +0530
+| 
+|     iOS older version UI issue
+| 
+* commit 06604e76617b77c92ebb821db2faf7527e4fdeb5
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri May 18 08:37:48 2018 +0530
+| 
+|     scan preview controller and other tasks
+| 
+* commit e5aab31dab5f7061d0ba646bad3793ae9b5e02ee
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue May 15 11:35:58 2018 +0530
+| 
+|     manage old version alignment issue and other task
+| 
+* commit 551126b5af0e27932edba692bf69be7011259c8d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 10 18:31:35 2018 +0530
+| 
+|     manage project notes issue blur and other issues
+| 
+* commit 2d99748763d8a04669c53ca6cc11937aa5d21269
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed May 9 20:57:57 2018 +0530
+| 
+|     data access manage
+| 
+* commit 20bae8cdccbe37c2af5b0efa05ba23d52a1972b9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed May 9 06:30:19 2018 +0530
+| 
+|     manage Who are you scan functionality
+| 
+* commit ce497c33b4226142e1d4035f8062283d140fc410
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon May 7 18:17:49 2018 +0530
+| 
+|     add pdf document and preview manage
+| 
+* commit 98d9c131c10f1ef2b07e7dd2380b9947ba110271
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 3 20:15:49 2018 +0530
+| 
+|     Backup Sync
+| 
+* commit e0b923e32acc945cdf60d9a53099cc5acea1292b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 3 15:40:05 2018 +0530
+| 
+|     Date format updated and other issues
+| 
+* commit 1760b7ff5b41d757838e32dbfa7fbaaf98e83387
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 3 10:26:20 2018 +0530
+| 
+|     JoinNow - referral code should not be hidden
+| 
+* commit bfef231c4070cd5780e93fdd2ea1dea06b6bcb9d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu May 3 10:15:57 2018 +0530
+| 
+|     back up and other fucntionality
+| 
+* commit cb480336efac6b3a9937fe8461bba0ee400de710
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 30 11:07:43 2018 +0530
+| 
+|     scan code for document access
+|   
+*   commit b2c9d551f9367acd545858e72b454d4e6ca733f0
+|\  Merge: d78c2a78 b415ba39
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 27 12:09:37 2018 +0530
+| | 
+| |     Merge branch 'Vishal' into Development
+| |     
+| |     * Vishal:
+| |       manage dictionary data for document
+| |       manage document access json
+| |       generate authorize json
+| | 
+| * commit b415ba39824403e482df8e3d082df632b15437db
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 27 12:09:02 2018 +0530
+| | 
+| |     manage dictionary data for document
+| | 
+| * commit b4b28c897d47a1e1d721bf1ab1de6d332296dba2
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Apr 26 10:06:30 2018 +0530
+| | 
+| |     manage document access json
+| | 
+| * commit 71a6990caeaef02dee5fa4086fb76bf02a15615a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 25 15:50:16 2018 +0530
+| | 
+| |     generate authorize json
+| |   
+* |   commit d78c2a78d3884ea9d409a31f0a36ac7e7283f071
+|\ \  Merge: 2b2c7f1a f4d6f995
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Apr 24 21:24:18 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into Development
+| |       
+| |       * Vishal:
+| |         manage document access data
+| |         docuement access request received
+| |         manage who are you options.
+| |         manage who are you screen
+| | 
+| * commit f4d6f995950e296cc507797603f987555f171c5d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 24 20:45:38 2018 +0530
+| | 
+| |     manage document access data
+| | 
+* | commit 2b2c7f1a4994264feea998783ef571ef571dba7d
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Tue Apr 24 19:05:04 2018 +0530
+| | 
+| |     add address screen give document upload option
+| |     solve icloud backup issue
+| |   
+* |   commit 60b164230dd6dfa9d0b2bcb1c8cf35774f624e5b
+|\ \  Merge: 5c9c18f6 f81d1d5e
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Tue Apr 24 17:26:26 2018 +0530
+| | | 
+| | |     Merge branch 'Arpit' of https://bitbucket.org/lynkedworldios/lynked.world into Arpit
+| | |     
+| | |     * 'Arpit' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       manage json
+| | | 
+* | | commit 5c9c18f6e3967ed87cc14550668f8a5373851fd6
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Tue Apr 24 17:25:51 2018 +0530
+| | | 
+| | |     document on add adddress
+| | | 
+| * | commit f81d1d5e5dd824d2826a3c987ec0a2a6fce18f72
+|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Apr 24 17:24:06 2018 +0530
+| |   
+| |       manage json
+| | 
+| * commit c51f1de1ee23b539fb882971529986fe365e51ee
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 24 16:43:09 2018 +0530
+| | 
+| |     docuement access request received
+| | 
+* | commit 058b9891e946b49b51d39ea72322aae8a0c6cb65
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Tue Apr 24 15:59:28 2018 +0530
+| | 
+| |     iCloud BackUp
+| | 
+| * commit b0e05120e3650b8abf2ecd58e653f8411878e60d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 23 08:05:31 2018 +0530
+| | 
+| |     manage who are you options.
+| |   
+* |   commit 6b52495c01a7f0739a7abc71d2d25a9e7f24b57f
+|\ \  Merge: e1e33498 f8764d47
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Fri Apr 20 18:49:53 2018 +0530
+| | | 
+| | |     Merge branch 'Arpit' of https://bitbucket.org/lynkedworldios/lynked.world into Arpit
+| | |     
+| | |     * 'Arpit' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       manage who are you options
+| | | 
+* | | commit e1e334984f740f031d3455f714060bb214a63ecf
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Fri Apr 20 18:42:27 2018 +0530
+| | | 
+| | |     iCloud backup
+| | | 
+| | * commit 41d4e48bcea46f03f033dbf73300bec3bec3a4d1
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Fri Apr 20 14:22:31 2018 +0530
+| |   
+| |       manage who are you screen
+| |   
+| *   commit f8764d47bf0aba0a5071b5a335dde39aecbf3f26
+| |\  Merge: 68cdb64e e2714667
+|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Fri Apr 20 11:09:38 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into Development
+| |       
+| |       * Vishal:
+| |         manage who are you options
+| | 
+| * commit e2714667b4c2016bb89bd193d36c98a90bbf5611
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 20 11:07:35 2018 +0530
+| | 
+| |     manage who are you options
+| | 
+* | commit 68cdb64ebb06522931d86e9256b0dedee7d85e33
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Thu Apr 19 19:18:00 2018 +0530
+|   
+|       Fix iPad layout
+|       feed send url on click open app
+|       change employment to experience in authorize Data access
+|   
+*   commit ad1bb6b1385123aa42e2c2b46fa4c30da51b89a4
+|\  Merge: 03fc6af8 e424d7c1
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 18 19:02:06 2018 +0530
+| | 
+| |     Merge branch 'Vishal' into Development
+| |     
+| |     * Vishal:
+| |       Preview issue resolve and company profile update
+| |       change verified image
+| |       manage social link and other issues
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+| * commit e424d7c10a529ea856705815cf90e9433da07c66
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 18 18:51:19 2018 +0530
+| | 
+| |     Preview issue resolve and company profile update
+| | 
+* | commit 03fc6af8857d4f2824e523d947f0f2d8e6e2ad52
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Wed Apr 18 18:20:18 2018 +0530
+| | 
+| |     verifyOtherData confirm and deny and after confirm move to complete section
+| | 
+| * commit b6b768abaf33bc99c6a1df1035c53fc2b462db5a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 18 16:49:53 2018 +0530
+| | 
+| |     change verified image
+| | 
+| * commit 867bebd50c36eacd1f442b9ba0ed1a0f3bc22eff
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Wed Apr 18 16:45:13 2018 +0530
+|   
+|       manage social link and other issues
+|   
+*   commit dee7275513388caab4ed308504e196fb6368430c
+|\  Merge: ff8344e4 309980a2
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 17 20:15:22 2018 +0530
+| | 
+| |     Merge branch 'Vishal' into Development
+| |     
+| |     * Vishal:
+| |       company details added
+| |       added company name in project list and other issues
+| | 
+| * commit 309980a222b2208d0f9ab8a5754ccbfeb8966713
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 17 20:12:48 2018 +0530
+| | 
+| |     company details added
+| | 
+* | commit ff8344e48346b950e5fdacc0053292c6c919554d
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Tue Apr 17 20:05:41 2018 +0530
+| | 
+| |     pdf preview complte
+| | 
+* | commit 7ba7b3b7816acf40d21439996bbfad69effb4337
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Tue Apr 17 19:15:24 2018 +0530
+| | 
+| |     document upload and preview
+| | 
+| * commit 8f179239168e540e67db04bf67106c67e15485fa
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Tue Apr 17 17:17:57 2018 +0530
+|   
+|       added company name in project list and other issues
+|   
+*   commit 6e8a015dedf02e9f3d78fc51fac2680201a8c319
+|\  Merge: a8a1dac2 9727dc9a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 17 09:26:23 2018 +0530
+| | 
+| |     Merge branch 'Vishal' into Development
+| |     
+| |     * Vishal:
+| |       manage company detail and other issues
+| |       Company profile design
+| |   
+* |   commit a8a1dac28a66bbd75f07bf0f61d0406758a8b7bc
+|\ \  Merge: 42a9b980 841ca481
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Apr 17 09:25:47 2018 +0530
+| | | 
+| | |     Merge branch 'Arpit' into Development
+| | |     
+| | |     * Arpit:
+| | |       Ether scan is hanging in Prod build in all sections. solve issue on verifyOtherData in api Show document name Document edit functionality
+| | | 
+| | * commit 9727dc9a65913d2ea3dd3b21beb07942c9049e7e
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Apr 17 09:09:39 2018 +0530
+| | | 
+| | |     manage company detail and other issues
+| | | 
+| * | commit 841ca481ad405273c915405fecaab9d830285cbc
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 16 19:13:10 2018 +0530
+| | | 
+| | |     Ether scan is hanging in Prod build in all sections.
+| | |     solve issue on verifyOtherData in api
+| | |     Show document name
+| | |     Document edit functionality
+| | | 
+* | | commit 42a9b980339cb6df308f5ea4663facf6dd2c68fa
+|/ /  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |   Date:   Mon Apr 16 18:58:24 2018 +0530
+| |   
+| |       1. Referral code is changing / someone else referral code is applied sometimes.
+| |       2. When edited the post text (which has photo) - photo is multiple times as many times as text edited.
+| | 
+| * commit f7ca3b838fcf43b0759f61ac7307a5f93b354c01
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Sun Apr 15 16:53:52 2018 +0530
+|   
+|       Company profile design
+|   
+*   commit eaf65d9db5c6eb4aefc4e1c3387815160bd04270
+|\  Merge: be3398ce 87c5fbb0
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 13 23:57:00 2018 +0530
+| | 
+| |     Merge branch 'Vishal' into Development
+| |     
+| |     * Vishal:
+| |       Pin authview design changes for pin, education date issue resolved and other issues.
+| |   
+* |   commit be3398cea5420791a98621021eda7f7ee90a3be7
+|\ \  Merge: 18609d52 c5499d3a
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Apr 13 23:54:35 2018 +0530
+| | | 
+| | |     Merge branch 'Arpit' into Development
+| | |     
+| | |     * Arpit:
+| | |       1) verifyDataAccess and Verification history user image click event 2) refer a friend redirect to app R&D and functionality 3) upload document functionality and integrate api
+| | | 
+| | * commit 87c5fbb073490f14164ce34886916a07166d6311
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Apr 13 19:42:27 2018 +0530
+| | | 
+| | |     Pin authview design changes for pin, education date issue resolved and other issues.
+| | | 
+| * | commit c5499d3a7a40ef3511603561ca900aa52b0b9e3f
+| |/  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Fri Apr 13 18:46:52 2018 +0530
+| |   
+| |       1) verifyDataAccess and Verification history user image click event
+| |       2) refer a friend redirect to app R&D and functionality
+| |       3) upload document functionality and integrate api
+| | 
+* | commit 18609d52effa11f8de43960e231188cf2b5c1177
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Fri Apr 13 18:41:33 2018 +0530
+|   
+|       1. Auth Time out Functionlity Added
+|       2. Refer Friend Page issue fixed
+|       3. Wallet Lable chnaged to rewards.
+| 
+* commit d87bf84fa491beb56c928244914bc9d57957b97f
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Apr 13 12:25:30 2018 +0530
+| 
+|     Spell check issue resolved
+|   
+*   commit dc4da133c9efb46a6bd1a9adf06e5dee57f29a98
+|\  Merge: 6457983e 302c1d84
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 13 12:24:25 2018 +0530
+| | 
+| |     Merge branch
+| |   
+* |   commit 6457983e4b7ce3a9dcd1e899161e46042598dfbe
+|\ \  Merge: 991ce47f ed3bbbcf
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Apr 13 12:08:03 2018 +0530
+| | | 
+| | |     Merge branch 'Dhiraj' into Development
+| | |     
+| | |     * Dhiraj:
+| | |       1. Refer Frined Design issue Resolved 2. Profile  tap tranfer
+| | |   
+* | |   commit 991ce47f7ba66ed4dcf489c7966cf3dc7ebd74af
+|\ \ \  Merge: ff535286 a72bdc9d
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Fri Apr 13 12:07:31 2018 +0530
+| | | | 
+| | | |     Merge branch 'Vishal' into Development
+| | | |     
+| | | |     * Vishal:
+| | | |       verification storyobard issue resolved
+| | | | 
+| | * | commit ed3bbbcf1ba44031b00999c9c7aba6e330b9bf8f
+| |/ /  Author: Dhiraj <dhiraj@braintechnosys.com>
+|/| |   Date:   Fri Apr 13 12:04:08 2018 +0530
+| | |   
+| | |       1. Refer Frined Design issue Resolved
+| | |       2. Profile  tap tranfer
+| | | 
+| | * commit 302c1d84893921ac7ec3ed4542ed9b8c5dc43de0
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Fri Apr 13 11:57:18 2018 +0530
+| | | 
+| | |     info.plist add urltype
+| | |     appdelegate add method
+| | | 
+| * | commit a72bdc9d999a075983d1b7eaf1d4be9ee9ea3335
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Apr 13 11:10:26 2018 +0530
+| | | 
+| | |     verification storyobard issue resolved
+| | | 
+| | * commit b8efa3ea4d8c5c93343762a3d4d9518f3e96ec3d
+| |/  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Thu Apr 12 19:40:34 2018 +0530
+| |   
+| |       In request Data access connection list not show properly
+| |       Verification Tick mark is not coming on the verified record.
+| |       Add document upload option in get verified screen
+| | 
+* | commit ff535286689f36c65dd5d710b229cef64835cc9a
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Thu Apr 12 19:19:10 2018 +0530
+|   
+|       1. Company Profile Page Designing . [Functionality Incomplete]
+|       2. Social Link Managed for Other users as well.
+|       3. Redirect User to profile on click (Auth Detais and Verfiy others data )
+|   
+*   commit 20a10382a82094cb109cdd08890fc813bf287fdb
+|\  Merge: 3b1cf8dc 75690af3
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 11 20:12:28 2018 +0530
+| | 
+| |     Merge branch 'Development' into Vishal
+| |     
+| |     * Development:
+| |       Add Tax base url dynamically in both verifyotherdata and verification code
+| |       1. Notification API issue resolved . 2. Social Profile Link Managed 3. Get Account Deactivation resaon Api integrated 4. Delelet accoutn api Integrated and View created with funcitonality.
+| |   
+| *   commit 75690af362f4e662776c56daafed477aa25b2a66
+| |\  Merge: cdf4ca60 3b1cf8dc
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/|   Date:   Wed Apr 11 20:09:44 2018 +0530
+| |   
+| |       Merge branch 'Vishal' into Development
+| |       
+| |       * Vishal:
+| |         manage requested to issue
+| |         display address in profile screen
+| |         add google api for address location, profile and other issues resolved
+| |   
+| *   commit cdf4ca60fbcedfc2dacde9782515c0cdbeca2a9e
+| |\  Merge: 32116376 24af59ed
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Wed Apr 11 20:07:24 2018 +0530
+| | | 
+| | |     Merge branch 'Arpit' into Development
+| | |     
+| | |     * Arpit:
+| | |       Add Tax base url dynamically in both verifyotherdata and verification code
+| | |   
+| * |   commit 3211637601587be7ff0d6a0deeac0f33cff4fc6d
+| |\ \  Merge: 9b9c8c6e 7b10d184
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Wed Apr 11 20:06:08 2018 +0530
+| | | | 
+| | | |     Merge branch 'Dhiraj' into Development
+| | | |     
+| | | |     * Dhiraj:
+| | | |       1. Notification API issue resolved . 2. Social Profile Link Managed 3. Get Account Deactivation resaon Api integrated 4. Delelet accoutn api Integrated and View created with funcitonality.
+| | | | 
+* | | | commit 3b1cf8dc1107113ec1c032a988e9482b6fb25774
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Wed Apr 11 19:54:55 2018 +0530
+| | | | 
+| | | |     manage requested to issue
+| | | | 
+* | | | commit 695c26168f6c97b219ab7e65495b73fd88459bd4
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Wed Apr 11 19:12:14 2018 +0530
+| | | | 
+| | | |     display address in profile screen
+| | | | 
+| | | * commit 24af59ed879f6d0c013b99b2b4b380a4b5dac599
+| | |/  Author: arpit <arpit@braintechnosys.com>
+| |/|   Date:   Wed Apr 11 18:34:55 2018 +0530
+| | |   
+| | |       Add Tax base url dynamically in both verifyotherdata and verification code
+| | | 
+* | | commit 5cc92164509d3f30892165ab895c2c317d96a4c5
+|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Wed Apr 11 18:26:08 2018 +0530
+| |   
+| |       add google api for address location, profile and other issues resolved
+| | 
+| * commit 7b10d184479733b66e24c2cc06223bf2dc347e8f
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Wed Apr 11 18:22:50 2018 +0530
+|   
+|       1. Notification API issue resolved .
+|       2. Social Profile Link Managed
+|       3. Get Account Deactivation resaon Api integrated
+|       4. Delelet accoutn api Integrated and View created with funcitonality.
+| 
+* commit 9b9c8c6e0e89b000fe820544e6196945bd7f3565
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Apr 11 10:30:50 2018 +0530
+| 
+|     reports in settings
+| 
+* commit 68ba5ca9b81ccf4a407395026e9cbfea4a84533e
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Apr 11 03:50:31 2018 +0530
+| 
+|     constants changes
+|   
+*   commit a67049d09645191ad93c41c92e1b37e6038be483
+|\  Merge: a5b4d329 44adc5b4
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 11 01:15:41 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1. API Get Master Social ID integrated 2 API get my social Details Integrated .(Still Some pending ..) 3. Save social links API Integrated 4. Save API isssue dicussed and resolved . 5. Delete account Page design Only (Functionality pending....)
+| |       Allow deny work on authorize data access date formate  
+| | 
+* | commit a5b4d329d8e6d41a7786b4d620095b234692eca5
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 11 01:15:16 2018 +0530
+| | 
+| |     manage Profile save
+| | 
+* | commit 6f13749034aec46ac1aff795906dff259686c485
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Apr 10 20:43:28 2018 +0530
+| | 
+| |     message issue and other issues
+| |   
+| *   commit 44adc5b47f7d7ed61cd000d49cade0e34e8aea70
+| |\  Merge: e665262e 54b0aa06
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Tue Apr 10 18:57:43 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       Allow deny work on authorize data access date formate  
+| | | 
+| * | commit e665262e1ec6d26dd3d93772a19c935347751302
+|/ /  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |   Date:   Tue Apr 10 18:57:26 2018 +0530
+| |   
+| |       1. API Get Master Social ID integrated
+| |       2 API get my social Details Integrated .(Still Some pending ..)
+| |       3. Save social links API Integrated
+| |       4. Save API isssue dicussed and resolved .
+| |       5. Delete account Page design Only (Functionality pending....)
+| | 
+| * commit 54b0aa06afa50d03a9c55dcf1f7f03f9720a5d8d
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Tue Apr 10 17:39:49 2018 +0530
+|   
+|       Allow deny work on authorize data access
+|       date formate  
+| 
+* commit 6024173a0ac570004768133de9a0d765db3d0e1b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Apr 10 02:41:56 2018 +0530
+| 
+|     messages changes
+|   
+*   commit 6c783c1a22ee62db30d985baa8e47af21c84ac3f
+|\  Merge: ed02c236 ede4dc60
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 9 21:18:23 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Init cap on the data type in all screens
+| |       Blocked User Chnages
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/Controllers/Feed/FeedViewController.swift
+| | 
+* | commit ed02c236f31d9007f0838a731a76f4858b7384ae
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 9 21:16:31 2018 +0530
+| | 
+| |     manage profile image in header and other task
+| |   
+| *   commit ede4dc6099b3f7788c24b8243ad466d34a700eca
+| |\  Merge: a08d433d 8f33faad
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 9 19:26:46 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       Blocked User Chnages
+| | |       1. Feed List Issue Solved
+| | |       manage post details popup
+| | |       1. Added Blocked User In Menu Setting 2. Profile Page Linked in Icon changed  3. Profile Page Details LinkedIn spelling Corrected 4. Blocking User using User ID (API integrated) 5.  Unblock user API Added . 6. Blocked User List (Api  integrated and View Created )
+| | | 
+| * | commit a08d433d72e8c835a603d23835ba98705a5109bd
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 9 19:24:45 2018 +0530
+| | | 
+| | |     Init cap on the data type in all screens
+| | | 
+| | * commit 8f33faad21cf68ec4f8ace04f8041a9ba15cc612
+| |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|/|   Date:   Mon Apr 9 18:42:12 2018 +0530
+| |   
+| |       Blocked User Chnages
+| |   
+* |   commit fda71a1c44cc182bbca5977f0bacf94288862a93
+|\ \  Merge: f7315f03 4b39cff1
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Mon Apr 9 18:05:06 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       manage post details popup
+| | | 
+* | | commit f7315f03be0d30ef859c5d53a3df3450f08c2a0f
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Mon Apr 9 18:05:00 2018 +0530
+| | | 
+| | |     1. Feed List Issue Solved
+| | |   
+| * |   commit 4b39cff17cf9f621a3b7b0ee4a80a1934089436c
+| |\ \  Merge: c84d179d 0c048615
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| |   Date:   Mon Apr 9 18:01:18 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         1. Added Blocked User In Menu Setting 2. Profile Page Linked in Icon changed  3. Profile Page Details LinkedIn spelling Corrected 4. Blocking User using User ID (API integrated) 5.  Unblock user API Added . 6. Blocked User List (Api  integrated and View Created )
+| | |         solve issue (9-04-18)
+| | | 
+| * | commit c84d179dd6eb634a8d18bed6e855aa1b794b84ce
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Apr 9 18:00:28 2018 +0530
+| | | 
+| | |     manage post details popup
+| | |   
+* | |   commit 0c04861585a4669826d25663a1766e48d17b1611
+|\ \ \  Merge: b5cb9b9c 377dd3e1
+| | |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |/|   Date:   Mon Apr 9 17:27:48 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         solve issue (9-04-18)
+| | |         feed controller changes
+| | |         manage getverified on feed screen
+| | | 
+* | | commit b5cb9b9c396121a1203a27744d2f0afc11c33d76
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Mon Apr 9 17:27:28 2018 +0530
+| | | 
+| | |     1. Added Blocked User In Menu Setting 2. Profile Page Linked in Icon changed  3. Profile Page Details LinkedIn spelling Corrected 4. Blocking User using User ID (API integrated)
+| | |     5.  Unblock user API Added .
+| | |     6. Blocked User List (Api  integrated and View Created )
+| | |   
+| * |   commit 377dd3e1952023938dd028de3104075e881b4a3c
+| |\ \  Merge: a1e6fe61 683fc3c9
+| | |/  Author: arpit <arpit@braintechnosys.com>
+| | |   Date:   Mon Apr 9 17:22:58 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         feed controller changes
+| | |         manage getverified on feed screen
+| | | 
+| * | commit a1e6fe61411285558747ebb268791c43f477c66a
+|/ /  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Mon Apr 9 17:22:33 2018 +0530
+| |   
+| |       solve issue (9-04-18)
+| | 
+| * commit 683fc3c93df999602df6e875091d96f647f8029b
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 9 15:43:44 2018 +0530
+| | 
+| |     feed controller changes
+| | 
+| * commit 53690e1a7280b08b1165651804ae8df3d73efe38
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Mon Apr 9 15:41:26 2018 +0530
+|   
+|       manage getverified on feed screen
+| 
+* commit 4b4119dfbcbcb450b42e611a796489142f1c7e6a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 9 10:56:43 2018 +0530
+| 
+|     manage top navigation bar with image
+| 
+* commit 4c65e36f34271315db169d8a5e67c92470d565b7
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 9 10:44:45 2018 +0530
+| 
+|     manage nav bar
+| 
+* commit 117646cc407800cc561b85084f003e252ec84831
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 9 10:32:31 2018 +0530
+| 
+|     added profile image on comment part
+| 
+* commit 3e49506db102a3b52f4c84a9d2998c75e6f79d9d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Apr 7 17:36:46 2018 +0530
+| 
+|     User icon on top left corner of navbar in feed screen, added about us screen navigation
+| 
+* commit 5dc6d6fb8c3673660df4fd54021c8b47db32c2fa
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Apr 7 01:30:40 2018 +0530
+| 
+|     feed design added
+|   
+*   commit 643343292d8980e7463200297d28e4e8209cc277
+|\  Merge: b76cd887 dcd353fc
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Apr 7 01:06:10 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1. Transfer to profile page on click on multiple pages
+| |       1) Change and manage search screens. 2) integrate message functionality on people seach 3) interate connection functionality on people search
+| |       1.  Notification page performace and layout Improved . 2.  Apply Job API . 3. Remove 'its' word from Alert.
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Feed.storyboard
+| | 
+* | commit b76cd8879bb46ca16e73f5c3a52499bae6e41066
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Apr 7 01:04:47 2018 +0530
+| | 
+| |     Manage Document related issue and other issues
+| | 
+| * commit dcd353fc7d245913b0f736d949b4c6ee442e0e2a
+| | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | Date:   Fri Apr 6 19:08:29 2018 +0530
+| | 
+| |     1. Transfer to profile page on click on multiple pages
+| |   
+| *   commit f17bf76a876db3f9330087913c7beca5bb9171b5
+| |\  Merge: 16af79f6 3be70ed6
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Fri Apr 6 18:52:00 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1.  Notification page performace and layout Improved . 2.  Apply Job API . 3. Remove 'its' word from Alert.
+| | | 
+| * | commit 16af79f6b10ffdb600f83b2d647dcbaeacb777ad
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Fri Apr 6 18:50:16 2018 +0530
+| | | 
+| | |     1) Change and manage search screens.
+| | |     2) integrate message functionality on people seach
+| | |     3) interate connection functionality on people search
+| | | 
+| | * commit 3be70ed644e6d3e5934aed485871bd0f9e13d62c
+| |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |   Date:   Fri Apr 6 18:43:28 2018 +0530
+| |   
+| |       1.  Notification page performace and layout Improved .
+| |       2.  Apply Job API .
+| |       3. Remove 'its' word from Alert.
+| | 
+* | commit 8fdc3356dd4eea98821a49778bde337b7283c075
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Apr 6 15:41:31 2018 +0530
+| | 
+| |     navigate to root controller when tapped on tabbar item.
+| | 
+* | commit f2242dbd0628fb430992bed8314f80fe9e86b576
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Fri Apr 6 11:42:24 2018 +0530
+|   
+|       FCM Integrated.
+| 
+* commit e246bade417d31eae313cb073884960c7f89bda9
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Apr 6 00:41:16 2018 +0530
+| 
+|     change search header design
+|   
+*   commit 3cd2aca0325d77ed873777619b25ecd1b4d065bb
+|\  Merge: f56e16cf bb079e1d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Apr 5 20:55:52 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       follow/unfollow
+| |       1) Add search functionality on all tabs 2) Create Jobs Search layout and  Integrate api and manage functionality 3) Create Blogs Search layout and  Integrate api and manage functionality 4) Manage message and connection button functionlity.
+| |       1. Edit API and page . 2. Button Like , Dislike , Comment and Share on Post details 3. Redirect  from Setting Heder image . 4. Managing Notificaiton Page ( Working on )
+| |       feed StoryBoard
+| |       1. Edit Post 2. Share on Details Page 3. Like and Dislike on Details Page 4. Delete Post and Edit post in Details Page .
+| | 
+* | commit f56e16cf36b6048381bee37a35490879cbde069a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Apr 5 20:55:31 2018 +0530
+| | 
+| |     MAnage Camera issue in feed and other issues
+| | 
+| * commit bb079e1d0a65bf3df269c20dd0319d0e4dce8a39
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Thu Apr 5 19:54:12 2018 +0530
+| | 
+| |     follow/unfollow
+| |   
+| *   commit 431081a6b9eb4d35fdf477702215cf87525ad9f3
+| |\  Merge: 733ca78f 122ed100
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Thu Apr 5 19:51:21 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Edit API and page . 2. Button Like , Dislike , Comment and Share on Post details 3. Redirect  from Setting Heder image . 4. Managing Notificaiton Page ( Working on )
+| | |       feed StoryBoard
+| | |       1. Edit Post 2. Share on Details Page 3. Like and Dislike on Details Page 4. Delete Post and Edit post in Details Page .
+| | | 
+| * | commit 733ca78faa0ba8a8f3a1ce7cd705fc41df3f1ac9
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Thu Apr 5 19:47:02 2018 +0530
+| | | 
+| | |     1) Add search functionality on all tabs
+| | |     2) Create Jobs Search layout and  Integrate api and manage functionality
+| | |     3) Create Blogs Search layout and  Integrate api and manage functionality
+| | |     4) Manage message and connection button functionlity.
+| | | 
+| | * commit 122ed100ef4bf2f9368e98fa6f26939c63ce8313
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Thu Apr 5 19:17:10 2018 +0530
+| | | 
+| | |     1. Edit API and page .
+| | |     2. Button Like , Dislike , Comment and Share on Post details
+| | |     3. Redirect  from Setting Heder image .
+| | |     4. Managing Notificaiton Page ( Working on )
+| | | 
+* | | commit 57dc327caaa95a6ad9e304f6d1964a065ff2a724
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Apr 5 18:23:37 2018 +0530
+| | | 
+| | |     change App Icon
+| | | 
+* | | commit 9cc7c92d5cbf9e03c4dfdf50e91cd29b7a4ea2df
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Apr 5 18:06:20 2018 +0530
+| | | 
+| | |     set message for document alert.
+| | | 
+* | | commit ee3045b6a73cceff78bfc4d1a71de1b5660e2bd2
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Apr 5 17:47:17 2018 +0530
+| | | 
+| | |     sort other docs according to created date, add document compulsory in other doc.
+| | | 
+* | | commit a324dcbd6effbcea2a3e671fe9b199f5532b7755
+|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Thu Apr 5 17:31:09 2018 +0530
+| |   
+| |       Added preview options, Manage userprofile navigate for own and others, sorting and other document related issues
+| | 
+| * commit b4894b80a5ba5c6844aab0bb3ddb4b2a73d4de2b
+| | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | Date:   Thu Apr 5 16:29:18 2018 +0530
+| | 
+| |     feed StoryBoard
+| |   
+| *   commit 3e241e7bcd221cdb4bc58a3fc9dbad0f631b4919
+| |\  Merge: b8929de7 ec1833a1
+| |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|/|   Date:   Thu Apr 5 16:23:49 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         preview in experiance
+| |         added preview for image in add experiance
+| |         add profile image changes and connection sorting.
+| |         hide getverified button on others profile and resolve content size issue for tables
+| | 
+| * commit b8929de721771add1d958a69837f3c45eae7a219
+| | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | Date:   Thu Apr 5 16:23:40 2018 +0530
+| | 
+| |     1. Edit Post
+| |     2. Share on Details Page
+| |     3. Like and Dislike on Details Page
+| |     4. Delete Post and Edit post in Details Page .
+| | 
+* | commit ec1833a1518dce9e405531f0a98adc1a3f8bc128
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Apr 5 04:01:18 2018 +0530
+| | 
+| |     preview in experiance
+| |   
+* |   commit 66f43d1b9e82d1b157b8751695c68adaf585c679
+|\ \  Merge: 11647c5d 28c65daa
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Wed Apr 4 22:53:29 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         1. Report Now API Changes 2. Delete Post API and Functionality 3. Performance Optmization of Feed List Page 4. Performace Optioimization on Job list Page 5. Performance Optimization on My Jobs Page. 6. Comment count on Feed Details is Also fixed .
+| |         1) Integrate search api for count and manage functionality 2) Create People Search layout and  Integrate api and manage functionality 3) Create Companies Search layout and  Integrate api and manage functionality
+| | 
+* | commit 11647c5d82187c469179b09ab661ac1d38b4b9fa
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 4 22:51:57 2018 +0530
+| | 
+| |     added preview for image in add experiance
+| |   
+| *   commit 28c65daaf2662fdb1ab22bbaf9c51d7d761216ee
+| |\  Merge: 843a8df7 9205e3cd
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Wed Apr 4 19:13:21 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1) Integrate search api for count and manage functionality 2) Create People Search layout and  Integrate api and manage functionality 3) Create Companies Search layout and  Integrate api and manage functionality
+| | | 
+| * | commit 843a8df715f604af7c014ddd9e2d0def3fd188f9
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Wed Apr 4 19:13:09 2018 +0530
+| | | 
+| | |     1. Report Now API Changes
+| | |     2. Delete Post API and Functionality
+| | |     3. Performance Optmization of Feed List Page
+| | |     4. Performace Optioimization on Job list Page
+| | |     5. Performance Optimization on My Jobs Page.
+| | |     6. Comment count on Feed Details is Also fixed .
+| | | 
+| | * commit 9205e3cd93ed829620e7a900fe66ffbac6528183
+| |/  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Wed Apr 4 19:10:10 2018 +0530
+| |   
+| |       1) Integrate search api for count and manage functionality
+| |       2) Create People Search layout and  Integrate api and manage functionality
+| |       3) Create Companies Search layout and  Integrate api and manage functionality
+| |   
+* |   commit ebb7d280d49ce40fd530b965b86a397362c3991a
+|\ \  Merge: 307ec926 5468fafa
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Wed Apr 4 16:55:49 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         search main layout
+| | 
+* | commit 307ec926609778b58c7bd070738e298fdc6b65bb
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 4 16:55:33 2018 +0530
+| | 
+| |     add profile image changes and connection sorting.
+| | 
+* | commit 37799f90f615870c148e1cf711bb2b902a5bfa97
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 4 12:26:01 2018 +0530
+| | 
+| |     hide getverified button on others profile and resolve content size issue for tables
+| |   
+| *   commit 5468fafab1404df9285106faafdb06830e9e47f3
+| |\  Merge: db14f542 890e369e
+| |/  Author: arpit <arpit@braintechnosys.com>
+|/|   Date:   Wed Apr 4 10:43:09 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         profile details added
+| |         profile setup
+| |         manage message issue and set profile information issue
+| |         1. Reoprt Now Option Changed 2. Redirect User to profile on Conneciton page 3. remove Contacts option . 4. Edit and Delete option (Funtionality remaining ) 5. Comment count corrected . 6. without image new post creating 7. Removed Hedline Compusary check
+| | 
+| * commit db14f542e0dbe5ea84a54dd5b078ad58184d2f2c
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Wed Apr 4 10:42:33 2018 +0530
+| | 
+| |     search main layout
+| | 
+* | commit 890e369e5d0b0a746fe48baeab8ffe76cdcb848b
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 4 01:35:47 2018 +0530
+| | 
+| |     profile details added
+| | 
+* | commit b7cd2f5d7f57e70e9b58d32b09dd3d1e6c5adb5a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Apr 4 00:19:58 2018 +0530
+| | 
+| |     profile setup
+| |   
+* |   commit 01a3c5a66a1d08b86b5f7b25500980a748915a22
+|\ \  Merge: 8348d29b a8c4b8ed
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Apr 3 20:39:42 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Reoprt Now Option Changed 2. Redirect User to profile on Conneciton page 3. remove Contacts option . 4. Edit and Delete option (Funtionality remaining ) 5. Comment count corrected . 6. without image new post creating 7. Removed Hedline Compusary check
+| | |       Add Verify Detail Listing names in Exp. add present condition
+| | | 
+* | | commit 8348d29bb4ff59db29f04736cc40475a14518552
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Apr 3 20:37:11 2018 +0530
+| | | 
+| | |     manage message issue and set profile information issue
+| | |   
+| * |   commit a8c4b8ed93732a9f1b5904c0fbf2effc26da21df
+| |\ \  Merge: 8aa1428c 65bed634
+| | |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+| | |   Date:   Tue Apr 3 19:06:10 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         Add Verify Detail Listing names in Exp. add present condition
+| | | 
+| * | commit 8aa1428c2a37cdd43d40b22866f5ed231be61890
+|/ /  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |   Date:   Tue Apr 3 19:05:56 2018 +0530
+| |   
+| |       1. Reoprt Now Option Changed
+| |       2. Redirect User to profile on Conneciton page
+| |       3. remove Contacts option .
+| |       4. Edit and Delete option (Funtionality remaining )
+| |       5. Comment count corrected .
+| |       6. without image new post creating
+| |       7. Removed Hedline Compusary check
+| | 
+| * commit 65bed634aa13d97e58f271a5c60d10d423b75b53
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Tue Apr 3 15:55:13 2018 +0530
+|   
+|       Add Verify Detail Listing names
+|       in Exp. add present condition
+| 
+* commit b9a8a05397eca0c036e26cc8a23fac6ce5ac840d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Apr 3 10:14:57 2018 +0530
+| 
+|     manage education and experiance list card and other issues
+|   
+*   commit 7f32e12525c72469180de7b4c69a30edc01d81d7
+|\  Merge: 6f85e590 fde8de61
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 2 20:26:29 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Verification History and detail page chanegs
+| |       1.Time issue fixed on connection Page 2. Redirect to User profile on miltiple Pages 3.Validation Change at New post . 4. Icons Made larger 5.Calculate thime issue
+| |       verifyOtherData & Verification history changes
+| | 
+* | commit 6f85e5900edcd79b4a19da9e3199f9a2cfc70a24
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 2 20:26:10 2018 +0530
+| | 
+| |     add Google place location api
+| |   
+| *   commit fde8de613bcb828ac4c9f26fa69e0255628cb94d
+| |\  Merge: 88615be6 201672ba
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 2 19:46:00 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1.Time issue fixed on connection Page 2. Redirect to User profile on miltiple Pages 3.Validation Change at New post . 4. Icons Made larger 5.Calculate thime issue
+| | | 
+| * | commit 88615be6371251bad7845215d3e09b7956b5c638
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 2 19:45:36 2018 +0530
+| | | 
+| | |     Verification History and detail page chanegs
+| | |   
+| | *   commit 201672ba25ba4de39b4b1880aa0444553a015b1b
+| | |\  Merge: e57e9131 ff2f8386
+| | |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |/|   Date:   Mon Apr 2 19:30:32 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         verifyOtherData & Verification history changes
+| | |         display degree name and study in education list
+| | | 
+| | * commit e57e9131a2da883a488af4c6831ac32cc259c8b3
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Mon Apr 2 19:30:25 2018 +0530
+| | | 
+| | |     1.Time issue fixed on connection Page
+| | |     2. Redirect to User profile on miltiple Pages
+| | |     3.Validation Change at New post .
+| | |     4. Icons Made larger
+| | |     5.Calculate thime issue
+| | |   
+| * |   commit ff2f83866eac32c9f49657df594a159bc04b253d
+| |\ \  Merge: 76bb8f3d 20969f04
+| |/ /  Author: arpit <arpit@braintechnosys.com>
+|/| |   Date:   Mon Apr 2 17:05:26 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         display degree name and study in education list
+| | |         navigate search screen
+| | |         manage education and experiance issue, resolve user name truncate issue on contact screen.
+| | | 
+| * | commit 76bb8f3dd614a8352ae7a2d8843ebb83054a7dd8
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Apr 2 17:01:49 2018 +0530
+| | | 
+| | |     verifyOtherData & Verification history changes
+| | | 
+* | | commit 20969f047c2247b98e13ec28aabcce44f14d8b08
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/|   Date:   Mon Apr 2 13:54:44 2018 +0530
+| |   
+| |       display degree name and study in education list
+| | 
+* | commit 42fd2cc4147d5354e96657f4e1f4fb0d291286ce
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Apr 2 13:39:02 2018 +0530
+| | 
+| |     navigate search screen
+| | 
+* | commit a33b74635a79f03ca5303ae7a5c6071d9115609c
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Mon Apr 2 13:38:43 2018 +0530
+|   
+|       manage education and experiance issue, resolve user name truncate issue on contact screen.
+| 
+* commit d825632b51bc9d85cd1a76e97d3eeec47ffba234
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 2 11:04:44 2018 +0530
+| 
+|     added search navigation on storyboard.
+| 
+* commit 677407efb48a788d6e18d5a0b630034264ddfe29
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Apr 2 09:59:26 2018 +0530
+| 
+|     added chat screens
+| 
+* commit e85d510d9dde43a43efbaafcd513c47a327b9f9b
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Mar 31 15:04:27 2018 +0530
+| 
+|     feed post menu option added
+|   
+*   commit c7f85e51add1d46c154b08c48b8fff0c5fa53df1
+|\  Merge: 32f29820 81f5008c
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 31 01:09:10 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1.Time Issue - Time is not calculated correctly 2. User Image Showing Issue 3. Passcode Aligment issue 4. Report a problem the top screen looks white. It should have option to cancel. 5. Comment box on the feed is not working. 6. Feed Page Redirected to user Profile Page
+| |       1) Once the approval is done for verification it does not move to the completed section. 2) Verified by layout cut on bottom in Verify Other Data Detail and Verification History Detail page 3) In Verified by:  DataTxid and DocumentTxid make as a link and open in web view on both Verify Other Data Detail and Verification History Detail page 4) Allow & deny change request model
+| | 
+* | commit 32f29820dbbb78b16b4756e31d779ab7e594073f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 31 01:07:30 2018 +0530
+| | 
+| |     added search landing page
+| |   
+| *   commit 81f5008c5942d04ac794adf617ab73f397b16d45
+| |\  Merge: d2448116 9a6b522e
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Fri Mar 30 19:45:07 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1) Once the approval is done for verification it does not move to the completed section. 2) Verified by layout cut on bottom in Verify Other Data Detail and Verification History Detail page 3) In Verified by:  DataTxid and DocumentTxid make as a link and open in web view on both Verify Other Data Detail and Verification History Detail page 4) Allow & deny change request model
+| | | 
+| * | commit d244811672a8b15f6494f34957b64f67e93c85b2
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Fri Mar 30 19:43:34 2018 +0530
+| | | 
+| | |     1.Time Issue - Time is not calculated correctly
+| | |     2. User Image Showing Issue
+| | |     3. Passcode Aligment issue
+| | |     4. Report a problem the top screen looks white. It should have option to cancel.
+| | |     5. Comment box on the feed is not working.
+| | |     6. Feed Page Redirected to user Profile Page
+| | | 
+| | * commit 9a6b522e42b3527755d917ecd7de5d492ad1a6bd
+| |/  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Fri Mar 30 19:41:45 2018 +0530
+| |   
+| |       1) Once the approval is done for verification it does not move to the completed section.
+| |       2) Verified by layout cut on bottom in Verify Other Data Detail and Verification History Detail page
+| |       3) In Verified by:  DataTxid and DocumentTxid make as a link and open in web view on both Verify Other Data Detail and Verification History Detail page
+| |       4) Allow & deny change request model
+| | 
+* | commit 349e0203afb2e1dfe85e6541e98b979acf4864a0
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Fri Mar 30 16:06:56 2018 +0530
+|   
+|       manage chat screens
+| 
+* commit 8d2bbd23c6d7b1ce7a7b57c6e85fc326f993dc60
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Mar 30 09:13:58 2018 +0530
+| 
+|     manage socket
+| 
+* commit 6f5c6cd23d937486bfa98cd2dff4f050b8e611b6
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Mar 29 19:09:52 2018 +0530
+| 
+|     manage chat controller and manage iPad actionsheet
+|   
+*   commit 0ab14985ffacd93d75ebf4a61aa48f7918c6cbbb
+|\  Merge: 00db4bb8 2f1857d7
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 29 15:31:16 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       verification history listing and details manage data verify other data manage listing and details code
+| | 
+* | commit 00db4bb8619995f1305cc31652d541d6561580af
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 29 15:30:53 2018 +0530
+| | 
+| |     integrate chat
+| | 
+| * commit 2f1857d7b3d15e8b977dc430ead004cde75e76d9
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Thu Mar 29 15:15:18 2018 +0530
+|   
+|       verification history listing and details manage data
+|       verify other data manage listing and details code
+| 
+* commit 2b49c2b2c4ffd15f28a6344ecdcf07103896f78d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Mar 29 09:16:07 2018 +0530
+| 
+|     conversation list integrated and verify history detail user name issue
+| 
+* commit 444b99334119f0c941b20b7f42764bfdf88ea8d0
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Mar 28 20:47:43 2018 +0530
+| 
+|     added space in between verified and request by blocks
+|   
+*   commit 60b72bffa45e3ee2992cb87106ec1f58b0110bee
+|\  Merge: 70377cf4 1640bbdc
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Mar 28 20:18:32 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       allow and deny functionality verification history
+| |       1. ReLogin View Controller Created 2. Touch ID and Passcode Login Integrated added . 3.  My Jobs Page Link Enabled 4.  Jobs Listing API integrated 5.  Notification Page , Autolayout changed . 6.  User Session Managed 7.  Forget password Link . 8.  URL Centralized in constants Page . 9.  Wallet Crash Resolved / New Type added
+| | 
+* | commit 70377cf4ca3f95a5581bc5b4b18129e2620236f6
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Mar 28 20:14:58 2018 +0530
+| | 
+| |     manage Get Verified details
+| |   
+| *   commit 1640bbdce4b4a246d9e673fd66bc1a5295aef909
+| |\  Merge: 417bd9a5 a14a2929
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Wed Mar 28 20:01:17 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. ReLogin View Controller Created 2. Touch ID and Passcode Login Integrated added . 3.  My Jobs Page Link Enabled 4.  Jobs Listing API integrated 5.  Notification Page , Autolayout changed . 6.  User Session Managed 7.  Forget password Link . 8.  URL Centralized in constants Page . 9.  Wallet Crash Resolved / New Type added
+| | | 
+| * | commit 417bd9a5e8dcb5985d9f486aa8c4690a17cff2e0
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Wed Mar 28 20:00:40 2018 +0530
+| | | 
+| | |     allow and deny functionality
+| | |     verification history
+| | |   
+| | *   commit a14a2929f938dc4cd25869a1a4288d65148717d4
+| | |\  Merge: aaa48bcf fec5009a
+| | |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |/|   Date:   Wed Mar 28 19:14:22 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         verifyOtherData
+| | |         manage verify request data
+| | |         manage request table
+| | |         Verification History Detail Authorize Data request access complete detail
+| | | 
+| | * commit aaa48bcf9390587968d5d7851d5adb0202a6e7af
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Wed Mar 28 19:09:14 2018 +0530
+| | | 
+| | |     1. ReLogin View Controller Created
+| | |     2. Touch ID and Passcode Login Integrated added .
+| | |     3.  My Jobs Page Link Enabled
+| | |     4.  Jobs Listing API integrated
+| | |     5.  Notification Page , Autolayout changed .
+| | |     6.  User Session Managed
+| | |     7.  Forget password Link .
+| | |     8.  URL Centralized in constants Page .
+| | |     9.  Wallet Crash Resolved / New Type added
+| | | 
+* | | commit 57492b1f68e5ebb02f308ae28cd691ecc3cb9bee
+|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Wed Mar 28 18:33:04 2018 +0530
+| |   
+| |       manage get verified request sync and listing
+| |   
+* |   commit fec5009a699bde65340cc9f01ba087d8d5060c44
+|\ \  Merge: 379fbf3f 0bdcc79b
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Wed Mar 28 15:12:13 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       manage verify request data
+| | |       manage request table
+| | | 
+* | | commit 379fbf3f0736bd06be8a91e5be25c2b5f9585927
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Wed Mar 28 15:10:37 2018 +0530
+| | | 
+| | |     verifyOtherData
+| | | 
+| * | commit 0bdcc79b8f506b9709bb294d70fc36caccbc145b
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Wed Mar 28 15:08:43 2018 +0530
+| | | 
+| | |     manage verify request data
+| | |   
+| * |   commit 73dd729310282c3413d440e822565a5fcdb72e70
+| |\ \  Merge: c6471f41 a5d80527
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| |   Date:   Wed Mar 28 14:35:51 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         Verification History Detail Authorize Data request access complete detail
+| | | 
+| * | commit c6471f41776a0aee3d81479525b749192ee43512
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Wed Mar 28 14:35:35 2018 +0530
+| |   
+| |       manage request table
+| | 
+* | commit a5d8052773a4fe18bbf24983fbc8a7d4cf307a5c
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Wed Mar 28 14:32:47 2018 +0530
+|   
+|       Verification History Detail
+|       Authorize Data request access complete detail
+|   
+*   commit 7b302ed1e1d34780baa37638a76f2579d877bdab
+|\  Merge: 65a9b69c ed3dad56
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 23:56:10 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1) VerifyOtherData pending and complete authentication/detail functionality. 2) Confirm and deny functionality. 3) Verification history main screen functionality.
+| |       1. Notification API Integerated 2. Notification Auto Layout Changed 3. Notification API Data managed and Displayed . 4. Login Using Pin Flow changing (in progress) 5. GlobleManager class Modified  Changed 6. UI Blocking issue resolving ( in Progress )
+| | 
+* | commit 65a9b69cdecaf7deb27a3ea2707e2a90962be6b1
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 23:55:18 2018 +0530
+| | 
+| |     resolve get verified issue
+| |   
+| *   commit ed3dad569a119328b72fe1d6298ea652d721bf41
+| |\  Merge: a0f4a6d8 26b00c89
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Tue Mar 27 19:42:39 2018 +0530
+| | | 
+| | |     1) VerifyOtherData pending and complete authentication/detail functionality.
+| | |     2) Confirm and deny functionality.
+| | |     3) Verification history main screen functionality.
+| | | 
+| * | commit a0f4a6d8bdf2b655bbb28c877145c951b949cc18
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Tue Mar 27 19:37:09 2018 +0530
+| | | 
+| | |     1) VerifyOtherData pending and complete authentication/detail functionality.
+| | |     2) Confirm and deny functionality.
+| | |     3) Verification history main screen functionality.
+| | | 
+| | * commit 26b00c89cd09061ca1a2e44880dd38d5478ac069
+| |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|/|   Date:   Tue Mar 27 19:22:55 2018 +0530
+| |   
+| |       1. Notification API Integerated
+| |       2. Notification Auto Layout Changed
+| |       3. Notification API Data managed and Displayed .
+| |       4. Login Using Pin Flow changing (in progress)
+| |       5. GlobleManager class Modified  Changed
+| |       6. UI Blocking issue resolving ( in Progress )
+| | 
+* | commit 9113593e4be4fc6de21514f18c03ea36541049f8
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 08:04:24 2018 +0530
+| | 
+| |     Username concate issue
+| | 
+* | commit 0d70fd93f096e7537c501c667f8c11e8af790382
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 07:51:17 2018 +0530
+| | 
+| |     User name truncate issue resolved.
+| |   
+* |   commit 4ae0b611d7d785ffd40163a43a988ecf09f242cd
+|\ \  Merge: bf5b066d 0ed96ce8
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Mar 27 07:43:04 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         1) Manage VerifyOtherData page code. 2) manage VerifyOtherData detail page code.
+| |         1. Enable Link Join Now  2. Privacy Policy  3. Term and Condition Separate in settings menu.  4. Hide My Account and Privacy  5. Add Authentication on All five items  6. Wallet Summary Data hIding Issue  7. Notification List API Integrated (Managing data in progress)  8. Home Page Crash Fixed (Attributed Text Error )  9. It’s Me Page Camera Issue Fixed  10. Open URL In Safari Browser (About us , Privacy Policy , Terms and conditions …etc)
+| |       
+| |       # Conflicts:
+| |       #       LynkedWorld/Extensions/StringExtnsn.swift
+| | 
+* | commit bf5b066d254911ff4cacbc3a20506fb25d47039f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 07:41:02 2018 +0530
+| | 
+| |     manage coredata
+| | 
+* | commit 08420f0a14e46c206fbd120162b968265cc06768
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 27 07:40:40 2018 +0530
+| | 
+| |     manage get verified screen
+| |   
+| *   commit 0ed96ce8c2bcd8898f3292f7f3aca9ee5cd233e2
+| |\  Merge: 105e0a14 91379272
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Mar 26 19:52:32 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Enable Link Join Now  2. Privacy Policy  3. Term and Condition Separate in settings menu.  4. Hide My Account and Privacy  5. Add Authentication on All five items  6. Wallet Summary Data hIding Issue  7. Notification List API Integrated (Managing data in progress)  8. Home Page Crash Fixed (Attributed Text Error )  9. It’s Me Page Camera Issue Fixed  10. Open URL In Safari Browser (About us , Privacy Policy , Terms and conditions …etc)
+| | | 
+| * | commit 105e0a14364a2bad0470d409122a92bba42e8562
+|/ /  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Mon Mar 26 19:51:58 2018 +0530
+| |   
+| |       1) Manage VerifyOtherData page code.
+| |       2) manage VerifyOtherData detail page code.
+| |   
+| *   commit 9137927209dedaaa76b72a3b4c12df1dec5fbccf
+| |\  Merge: df54a4b7 8e910705
+| |/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|/|   Date:   Mon Mar 26 19:30:28 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         add get verified screen
+| |       
+| |       # Conflicts:
+| |       #       LynkedWorld/Controllers/Setting/SettingMainVC.swift
+| | 
+| * commit df54a4b733dd31f429a5fe943a694327d009a973
+| | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | Date:   Mon Mar 26 19:22:24 2018 +0530
+| | 
+| |     1. Enable Link Join Now
+| |      2. Privacy Policy
+| |      3. Term and Condition Separate in settings menu.
+| |      4. Hide My Account and Privacy
+| |      5. Add Authentication on All five items
+| |      6. Wallet Summary Data hIding Issue
+| |      7. Notification List API Integrated (Managing data in progress)
+| |      8. Home Page Crash Fixed (Attributed Text Error )
+| |      9. It’s Me Page Camera Issue Fixed
+| |      10. Open URL In Safari Browser (About us , Privacy Policy , Terms and conditions …etc)
+| | 
+* | commit 8e910705e6b8d832b68baac90a53a25bd0cfc4a5
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Mon Mar 26 10:16:49 2018 +0530
+|   
+|       add get verified screen
+| 
+* commit 30d1a80c2ec3fec191c86d1d97ccda79c55fe740
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Mar 24 03:34:33 2018 +0530
+| 
+|     manage card cell
+| 
+* commit 3bf45b9ea7ffc69389df5069687def24df92a253
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Mar 24 02:22:10 2018 +0530
+| 
+|     change on card design
+|   
+*   commit 05be394363f3e2ac761bd23006760b62e0370b92
+|\  Merge: fe91e954 dc010789
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 24 02:20:54 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1. Integrated Join now api 2 .Wallet  summary api . 3. Hide Menu items from setting page . 4. Reset pin 5. Turn On/Off touch ID  6. Support Email changed
+| |       1. Create VerifyOtherData Detail layout 2. Integarte VerifyOtherData Detail api and manage code 3. Integarte Complete access Doc request api and manage code
+| |       1. Create Complete access Doc request layout 2. Create Verification history layout and integrate api 3. Create complete request access data download  layout and Integrate download api and manage data 4. Create complete access docs request download layout and Integrate download api and manage data
+| |       1.  Launch ViewController Changed 2.  Login and Account Creation Process changed . 3.  Passcode and Touch ID Added . 4. Authentication  process  changed on    a. It's Me   b. My Wallet   c. Varification
+| | 
+* | commit fe91e954aef2b0f86f6efa651d62a0e663c7684f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 24 01:58:28 2018 +0530
+| | 
+| |     scan options and design issues
+| |   
+| *   commit dc0107895338cc4daebd1fdbe571258ecb47edf2
+| |\  Merge: fb273cea 191d9522
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Fri Mar 23 19:25:36 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Create VerifyOtherData Detail layout 2. Integarte VerifyOtherData Detail api and manage code 3. Integarte Complete access Doc request api and manage code
+| | | 
+| * | commit fb273cea92565b63b17bfe658cf0bbcc4f53fce0
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Fri Mar 23 19:25:17 2018 +0530
+| | | 
+| | |     1. Integrated Join now api
+| | |     2 .Wallet  summary api .
+| | |     3. Hide Menu items from setting page .
+| | |     4. Reset pin
+| | |     5. Turn On/Off touch ID 
+| | |     6. Support Email changed
+| | | 
+| | * commit 191d95226ee70347a6547c0c7ef49eb46f9fd18c
+| |/  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Fri Mar 23 19:24:25 2018 +0530
+| |   
+| |       1. Create VerifyOtherData Detail layout
+| |       2. Integarte VerifyOtherData Detail api and manage code
+| |       3. Integarte Complete access Doc request api and manage code
+| |   
+| *   commit 56c9c2d25c875463a8ce1eae7e96c453e3531784
+| |\  Merge: f9dcbce3 82f5ab44
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Thu Mar 22 19:57:20 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1.  Launch ViewController Changed 2.  Login and Account Creation Process changed . 3.  Passcode and Touch ID Added . 4. Authentication  process  changed on    a. It's Me   b. My Wallet   c. Varification
+| | | 
+| * | commit f9dcbce37018dee15384799672b272b302c14e2e
+|/ /  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Thu Mar 22 19:56:51 2018 +0530
+| |   
+| |       1. Create Complete access Doc request layout
+| |       2. Create Verification history layout and integrate api
+| |       3. Create complete request access data download  layout and Integrate download api and manage data
+| |       4. Create complete access docs request download layout and Integrate download api and manage data
+| | 
+| * commit 82f5ab44200e59f2a09a17d87c5a1dbfd1b4f2c4
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Thu Mar 22 19:35:42 2018 +0530
+|   
+|       1.  Launch ViewController Changed
+|       2.  Login and Account Creation Process changed .
+|       3.  Passcode and Touch ID Added . 4. Authentication  process  changed on    a. It's Me   b. My Wallet   c. Varification
+|   
+*   commit aa09c6b5ddeb064be9105b9bce3ae01766e2340a
+|\  Merge: 7a535c72 4dd16662
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 22 00:02:17 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1. Integrate cancel api and manage data 2. Create complete access document request detail layout and integrate api
+| |       1. Change the pin to Six digit . 2. Refer Friend issue resolved . 3. My wallet scrolling issue resolved .
+| | 
+* | commit 7a535c72ef6070c722f2ac97746a3e6642642eb0
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 22 00:00:57 2018 +0530
+| | 
+| |     validation and Who are you options
+| |   
+| *   commit 4dd166628d4ef415089bebaaf080c8d318d46978
+| |\  Merge: 1e5dcf18 2135c5e5
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Wed Mar 21 19:53:55 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Change the pin to Six digit . 2. Refer Friend issue resolved . 3. My wallet scrolling issue resolved .
+| | | 
+| * | commit 1e5dcf187391527e8521a321cbad748b37c8cbaa
+|/ /  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Wed Mar 21 19:53:08 2018 +0530
+| |   
+| |       1. Integrate cancel api and manage data
+| |       2. Create complete access document request detail layout and integrate api
+| | 
+| * commit 2135c5e54d10eed8e1258f004f585c61c7930782
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Wed Mar 21 19:45:58 2018 +0530
+|   
+|       1. Change the pin to Six digit .
+|       2. Refer Friend issue resolved .
+|       3. My wallet scrolling issue resolved .
+| 
+* commit 11640117dbd23f04e2a0a82dba2bafdad5d9a99c
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Mar 20 20:49:00 2018 +0530
+| 
+|     added cell for verification
+|   
+*   commit 1a7b1c3ad9a254d54eeed0d8c180fe05a633d7b8
+|\  Merge: 78603351 3704d73b
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 20:43:01 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1. Managed the walllet History Pages
+| |       complete request acces detail layout and integrate api
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit 7860335196d41702458aeff58144d0195bbe1ba6
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 20:42:14 2018 +0530
+| | 
+| |     manage add identity
+| |   
+| *   commit 3704d73bc819492255e800ffe669b3bbc07988c4
+| |\  Merge: ddeb568a 9867578a
+| | | Author: Dhiraj <dhiraj@braintechnosys.com>
+| | | Date:   Tue Mar 20 19:31:44 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       complete request acces detail layout and integrate api
+| | | 
+| * | commit ddeb568a9f6d458bcfba7af1ac515d523a91a015
+|/ /  Author: Dhiraj <dhiraj@braintechnosys.com>
+| |   Date:   Tue Mar 20 19:31:10 2018 +0530
+| |   
+| |       1. Managed the walllet History Pages
+| | 
+| * commit 9867578a1c9c440510654d20be3cb438ad9e7261
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Tue Mar 20 19:29:23 2018 +0530
+|   
+|       complete request acces detail layout and integrate api
+|   
+*   commit 2236691a9022a998789346597322a4416c54d9be
+|\  Merge: 29d18a76 b8d7d229
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 11:35:24 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Disabling @IBDesignable temporarily
+| | 
+* | commit 29d18a76af5555923f7cf74eac99144ee28bf919
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 11:35:05 2018 +0530
+| | 
+| |     manage add idenity popup
+| | 
+| * commit b8d7d22904e0d21dd7e429b518f19b84b3f1490a
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Tue Mar 20 11:32:10 2018 +0530
+|   
+|       Disabling @IBDesignable temporarily
+|   
+*   commit 643bf8d69f89c498bd4cd4551e84f1f55f6afbc5
+|\  Merge: b2fa0eca 9a551573
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 04:18:58 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Pending access document request Complete access document request Complete access request history
+| |       1. Created Referral Friends Page . 2. Add 3 View Controller in Application storyboard     a. Refer Friend VC     b. Refer FriendScrolling VC     c. Refer FriendScrollingItem VC 3. Added following classes     a. Refer Friend VC     b. Refer FriendScrolling VC     c. Refer FriendScrollingItem VC
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit b2fa0eca398a93630eeb735f8e967ccc5f5d3086
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 20 04:14:20 2018 +0530
+| | 
+| |     manage Add DOB and Identity
+| |   
+| *   commit 9a551573085750f0972a701dbdf7cdb60889f872
+| |\  Merge: 094824f0 8c6cef80
+| | | Author: arpit <arpit@braintechnosys.com>
+| | | Date:   Mon Mar 19 19:47:15 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       1. Created Referral Friends Page . 2. Add 3 View Controller in Application storyboard     a. Refer Friend VC     b. Refer FriendScrolling VC     c. Refer FriendScrollingItem VC 3. Added following classes     a. Refer Friend VC     b. Refer FriendScrolling VC     c. Refer FriendScrollingItem VC
+| | | 
+| * | commit 094824f0ed285714a992e183e65575acda92331c
+|/ /  Author: arpit <arpit@braintechnosys.com>
+| |   Date:   Mon Mar 19 19:46:46 2018 +0530
+| |   
+| |       Pending access document request
+| |       Complete access document request
+| |       Complete access request history
+| | 
+| * commit 8c6cef806b0c117f2f8f91100d24542c49b830d0
+|/  Author: Dhiraj <dhiraj@braintechnosys.com>
+|   Date:   Mon Mar 19 19:33:31 2018 +0530
+|   
+|       1. Created Referral Friends Page .
+|       2. Add 3 View Controller in Application storyboard
+|           a. Refer Friend VC
+|           b. Refer FriendScrolling VC
+|           c. Refer FriendScrollingItem VC
+|       3. Added following classes
+|           a. Refer Friend VC
+|           b. Refer FriendScrolling VC
+|           c. Refer FriendScrollingItem VC
+|   
+*   commit 774190804309d62fd5f7ace5ce7e2fa654e6d6ca
+|\  Merge: c0fa4902 d3c53df1
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 19 10:39:00 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Change verify data field e.g passport design complete request history and integrate api and manage data
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit c0fa4902a65e76fc7bc29de84d365a5c223db5c4
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 19 10:37:54 2018 +0530
+| | 
+| |     IDentity listing
+| | 
+| * commit d3c53df188cb936560771553b33ba29419f3d8ff
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Fri Mar 16 18:51:24 2018 +0530
+|   
+|       Change verify data field e.g passport
+|       design complete request history and integrate api and manage data
+| 
+* commit d18ff6fa725dd36d9b7e384ce7ad192a3e2c8869
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Mar 15 22:43:30 2018 +0530
+| 
+|     remove unnecessary code
+|   
+*   commit 84c1583942e13ce74de7220456806b6feac33bda
+|\  Merge: 9ad0ba57 f6f96f5f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 15 21:34:05 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Pending request history Complete request history
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit 9ad0ba577305aab77007bd54d3b40c597a37b3a8
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 15 20:29:35 2018 +0530
+| | 
+| |     Manage popup and some design issues
+| | 
+| * commit f6f96f5fc6d7c79644e6c8c230af3d9eb9ddca13
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Thu Mar 15 19:41:03 2018 +0530
+|   
+|       Pending request history
+|       Complete request history
+|   
+*   commit 11a54511b26a19b01c8196e43cdf6a71daddb271
+|\  Merge: d3e1a018 29ec5889
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 15 01:31:54 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       1- Verify Other Data layout and manage data 2- Pending Authentication 3- Complete Authentication 4- Request data access
+| | 
+* | commit d3e1a018c197abe7e64a3c35d1b3d560cc6d2d7b
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Mar 15 01:31:40 2018 +0530
+| | 
+| |     manage contacts and picker month & year
+| |   
+| *   commit 29ec5889345f67fa1e3ce88639bd93f1db1ba9ca
+| |\  Merge: dbc26a78 4ae2caf3
+| |/  Author: arpit <arpit@braintechnosys.com>
+|/|   Date:   Wed Mar 14 19:07:59 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         crash issue resolve
+| | 
+| * commit dbc26a7886821f46e115e1e53c7c120a21b146e6
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Wed Mar 14 18:45:30 2018 +0530
+| | 
+| |     1- Verify Other Data layout and manage data
+| |     2- Pending Authentication
+| |     3- Complete Authentication
+| |     4- Request data access
+| | 
+* | commit 4ae2caf35fd114d1bff3dd63d2bf06579175490b
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Wed Mar 14 09:10:27 2018 +0530
+|   
+|       crash issue resolve
+|   
+*   commit 54be57bc962557861372cd75735a61f0f33ad906
+|\  Merge: c49050db 3a447149
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 19:01:36 2018 +0530
+| | 
+| |     Merge branches 'Development' and 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Request data access : send request process layout and integrate api.
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Request data access : send request process layout and integrate api.
+| | 
+* | commit c49050db9a590117f2ab3a7085186d31a922e0dc
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 19:01:21 2018 +0530
+| | 
+| |     remove unnecessary code
+| | 
+* | commit 095ed5fd2cd4c4343fbdaf4d1aeaee9604dea14e
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 18:47:35 2018 +0530
+| | 
+| |     manage education list
+| | 
+| * commit 3a4471493c24cac141ebbc3c2cab1aeac3fd84e7
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Tue Mar 13 18:38:52 2018 +0530
+|   
+|       Request data access : send request process layout and integrate api.
+|   
+*   commit 463191908ecdcec61b50f52e878bc0dc3f8c3b03
+|\  Merge: a8e42370 07f6e17a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 14:44:13 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       VerifyOtherData change screen and manage code and change date formate RequestDataAccess create 1st layout and manage code
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit a8e42370c5d2c95e7c49dffc39efc04bd544e179
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 14:38:38 2018 +0530
+| | 
+| |     manage education list
+| | 
+| * commit 07f6e17add2ae8eaf1a1db43efcc99a445cdc93a
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Tue Mar 13 14:20:27 2018 +0530
+| | 
+| |     VerifyOtherData change screen and manage code and change date formate
+| |     RequestDataAccess create 1st layout and manage code
+| | 
+* | commit 8d8835dee3581f5c4618e8307e1a84f92df435e3
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 13 13:24:07 2018 +0530
+| | 
+| |     remove swiftiCountryPicker controller
+| | 
+* | commit 5455a2464f21ae491a284fd7a6cf861106760030
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Tue Mar 13 13:23:37 2018 +0530
+|   
+|       manage contact screen
+| 
+* commit 9ca4f5f5444c66ee5ce35fa523fc2ef46a62723a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Mar 13 01:37:20 2018 +0530
+| 
+|     manage contact screen
+|   
+*   commit 60c04b46b82b6c6dfb4986ba9d2888f75ba73833
+|\  Merge: c799ed0e a2edded7
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 12 19:53:45 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Paging and no record found code.
+| | 
+* | commit c799ed0eea1d15168dda81ba6f92c3c033a099a5
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 12 19:53:34 2018 +0530
+| | 
+| |     complete contact Verification.
+| | 
+| * commit a2edded7c1f1e27301a5ee474cc2886e7c1ba030
+|/  Author: arpit <arpit@braintechnosys.com>
+|   Date:   Mon Mar 12 18:52:15 2018 +0530
+|   
+|       Paging and no record found code.
+|   
+*   commit 8cf0144a36095fa3b8c07fcb8bcf60dac98666d5
+|\  Merge: 170bc547 d4b206be
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 12 17:16:14 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Manage Verify Others Data layout and integrate api pending and complete.
+| | 
+* | commit 170bc547fc01754c98d4dba5cf9e59fa2e360a63
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Mar 12 17:15:58 2018 +0530
+| | 
+| |     manage contact screen and popup
+| | 
+| * commit d4b206be1b51dc4996146b0bcbe04ffddb1983bf
+| | Author: arpit <arpit@braintechnosys.com>
+| | Date:   Mon Mar 12 17:14:20 2018 +0530
+| | 
+| |     Manage Verify Others Data layout and integrate api pending and complete.
+| | 
+* | commit 737f9904f4136bbcebf935ba53f43d63af51b80e
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Mon Mar 12 12:02:54 2018 +0530
+|   
+|       remove old sqlite data and manage add education popup
+| 
+* commit e1af1a2148405d81143c76517d199926fe133a05
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Mar 10 11:05:13 2018 +0530
+| 
+|     manage experiance
+| 
+* commit 9f02ce5461df40486e0664bb378f796be878fdc5
+| Author: Vandan Javiya <javiyavandan@gmail.com>
+| Date:   Sat Mar 10 00:26:05 2018 +0530
+| 
+|     Add
+|   
+*   commit 6464179ef26d50ccec0f00dd43db547b65efa92d
+|\  Merge: 7e062531 9c2916da
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Fri Mar 9 22:38:46 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     Merge
+| | 
+* | commit 7e0625319f1ddcd925f12403167c6d6f2827af56
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Fri Mar 9 22:38:32 2018 +0530
+| | 
+| |     Add Iden
+| | 
+| * commit 9c2916dafeac7cbc3add74637ce0857a9e54eed4
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Mar 9 22:21:06 2018 +0530
+| | 
+| |     experiance manage
+| | 
+| * commit 9ece0c59d54c7a7d9c55c67d8460a90144a666ee
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Fri Mar 9 21:37:26 2018 +0530
+|   
+|       manage add Project popup
+| 
+* commit 4517e1e37a248c5dffbda89f057057b0ac84aead
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Fri Mar 9 20:39:34 2018 +0530
+| 
+|     manage Education popup
+|   
+*   commit ec22d813d35866b16308cd302480831738eed91f
+|\  Merge: 3d791c8e 9af9940f
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Mar 9 15:32:40 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Docs save in local with import statment
+| | 
+* | commit 3d791c8e14dbb8e6da6c9fba9a1150757de3dde4
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Mar 9 15:32:23 2018 +0530
+| | 
+| |     manage verification list scrolling
+| |   
+| *   commit 9af9940fc6c5a1235798bcfbaf91605f3b939a90
+| |\  Merge: cd48c4eb 1c25a554
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|/|   Date:   Fri Mar 9 15:27:00 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       Merge
+| | 
+| * commit cd48c4eb5bdce190d579af7fcc7c93bbdd670bfd
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Fri Mar 9 15:26:30 2018 +0530
+| | 
+| |     Docs save in local with import statment
+| |   
+* |   commit 1c25a554095e6e486502afb2fecc35e9b588ff2f
+|\ \  Merge: 97bd42f9 95208dce
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Fri Mar 9 11:04:53 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         Data changes
+| |         identity design all
+| |         Update Profile Chnages
+| |         Edit changes
+| |         Design for Addidentity Type
+| |       
+| |       # Conflicts:
+| |       #       LynkedWorld.xcodeproj/project.pbxproj
+| |       #       LynkedWorld/Controllers/Verification/IdentityListVC.swift
+| |       #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit 97bd42f9fb449f2e9149f491df8ef7aea937ce6c
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Mar 9 11:03:50 2018 +0530
+| | 
+| |     Manage Verification identity popup
+| | 
+| * commit 95208dce8991042a3a9882dd9a9b2be908d24459
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Fri Mar 9 11:00:07 2018 +0530
+| | 
+| |     Data changes
+| |   
+| *   commit c87c6d4e3158b602c574ae55b71420fe24c64e9d
+| |\  Merge: accf5e16 0b16b2f0
+| | | Author: Vihaa Infotech <>
+| | | Date:   Fri Mar 9 00:01:49 2018 +0530
+| | | 
+| | |     all screen design identity
+| | | 
+| * | commit accf5e16fd47db1342859e30f8646b5b2d677527
+| | | Author: Vihaa Infotech <>
+| | | Date:   Thu Mar 8 23:47:51 2018 +0530
+| | | 
+| | |     identity design all
+| | | 
+| | * commit 0b16b2f0a3a8f424cb87ff12d9330032b7ead35b
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+| |   Date:   Thu Mar 8 22:06:00 2018 +0530
+| |   
+| |       Update Profile Chnages
+| |   
+| *   commit 8d9e8cc38781edeaa04301d43d5c5e71411ac441
+| |\  Merge: 9f9907f8 6aa934f8
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Thu Mar 8 09:53:43 2018 +0530
+| | | 
+| | |     Merge
+| | | 
+| * | commit 9f9907f8a5832ff03621909964dea56e4b8bc077
+|/ /  Author: Vandan Javiya <javiyavandan@gmail.com>
+| |   Date:   Thu Mar 8 09:51:14 2018 +0530
+| |   
+| |       Edit changes
+| | 
+| * commit 6aa934f84d67996ef5d49af8aabf79707b6bc255
+|/  Author: Vihaa Infotech <>
+|   Date:   Thu Mar 8 02:30:48 2018 +0530
+|   
+|       Design for Addidentity Type
+|   
+*   commit a8915f00a492dfb0d97ae9ce61f200926e78a9b8
+|\  Merge: fe6dbe65 18fa4bf0
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Mar 7 11:47:30 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Update Exp
+| |     
+| |     # Conflicts:
+| |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | 
+* | commit fe6dbe65fe9c5b43a201e2e19a6b37ab190f200c
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Mar 7 11:43:16 2018 +0530
+| | 
+| |     identity listing modification
+| |   
+| *   commit 18fa4bf0d28b7b7ddfa153891e0e206fd8c48871
+| |\  Merge: cc11f93a 179ba67a
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|/|   Date:   Wed Mar 7 11:35:46 2018 +0530
+| |   
+| |       Merge
+| | 
+| * commit cc11f93a3589141b6ee831836d43816273234f4b
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Wed Mar 7 10:48:38 2018 +0530
+| | 
+| |     Update Exp
+| | 
+* | commit 179ba67a9324ae802806d717d62b6839690afd3a
+| | Author: Vihaa Infotech <>
+| | Date:   Wed Mar 7 00:35:06 2018 +0530
+| | 
+| |     small change in identity
+| | 
+* | commit 0f80310038fba0685c651d6de0ab51385d64bf8c
+| | Author: Vihaa Infotech <>
+| | Date:   Tue Mar 6 23:52:46 2018 +0530
+| | 
+| |     save data for identity
+| |   
+* |   commit 1333f198758289427acb124810b21fbdc657cc0b
+|\ \  Merge: 1a64d25a f12d47b0
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Mar 6 22:23:20 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         Projects add issue
+| | 
+* | commit 1a64d25aaff589263008bd88fcf798547fd73a21
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 6 22:23:04 2018 +0530
+| | 
+| |     manage profile display
+| |   
+| *   commit f12d47b0bcdc6f038602f91b22203ef0a9470921
+| |\  Merge: 0d2e1d08 17acd83d
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|/|   Date:   Tue Mar 6 20:48:57 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       Mrge code
+| | 
+| * commit 0d2e1d08b1f12af9cdb9dcbf58569d6b71644468
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Tue Mar 6 20:48:27 2018 +0530
+| | 
+| |     Projects add issue
+| | 
+* | commit 17acd83d94256929104154eb75fbd9206926da8d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 6 13:36:51 2018 +0530
+| | 
+| |     add experiance issue resolve.
+| |   
+* |   commit 0fd2b2be368234a887c3a33f7e88776a42d60713
+|\ \  Merge: 9af16cf4 85ccb12b
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Mar 6 11:45:36 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         Add and Delete Education, exp, proj
+| | 
+* | commit 9af16cf44223da229b8b925559aba9f6d000eb49
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 6 11:45:24 2018 +0530
+| | 
+| |     resolve ambiguase issue
+| | 
+| * commit 85ccb12b235e94b07f05a01f98cd47e8ba4227db
+|/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|   Date:   Tue Mar 6 11:42:44 2018 +0530
+|   
+|       Add and Delete Education, exp, proj
+|   
+*   commit a21943a0aed5b3c462bbd02ecc73325985c9ab0a
+|\  Merge: 85545ab7 cb0f38d1
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Tue Mar 6 08:42:35 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     Merge
+| | 
+* | commit 85545ab7145187ec7d2b22eb2fcbbd302b7d33ce
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Tue Mar 6 08:42:15 2018 +0530
+| | 
+| |     Delete Project
+| | 
+| * commit cb0f38d185fe24dc945dbc96ed80ebb9bb2d126e
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Mar 6 05:32:09 2018 +0530
+| | 
+| |     add/edit/delete funcs in crete table(manage table)
+| |   
+| *   commit c6b0f1e49140796c53b8c5b8f3f8f4ff596f6adf
+| |\  Merge: 730a71a5 d297b8d0
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Mar 6 04:24:39 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       title change
+| | |       Identity set data
+| | |   
+| | *   commit d297b8d0f98577a12feea397b0a163432a731f87
+| | |\  Merge: 5e410fa3 145ffeed
+| |_|/  Author: Vihaa Infotech <>
+|/| |   Date:   Tue Mar 6 04:10:42 2018 +0530
+| | |   
+| | |       prit changes
+| | | 
+| | * commit 5e410fa3199a70664e0da1206d7e4bd82f4a8d7c
+| | | Author: Vihaa Infotech <>
+| | | Date:   Tue Mar 6 04:08:06 2018 +0530
+| | | 
+| | |     title change
+| | | 
+| | * commit e81a5db1f79ee0b11a32097273ad1a0f77d9dd0d
+| | | Author: Vihaa Infotech <>
+| | | Date:   Tue Mar 6 04:02:25 2018 +0530
+| | | 
+| | |     Identity set data
+| | | 
+| * | commit 730a71a57a88feffc053449dfc8115472fe652e5
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Mar 6 02:11:15 2018 +0530
+| | | 
+| | |     image upload issue resolved
+| | | 
+| * | commit 6490b8193b2d779d3381912b666a0c7844245c9c
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Mar 6 00:09:39 2018 +0530
+| | | 
+| | |     manage font of textfield
+| | |   
+| * |   commit cff6ca9871f7efc384a5918fd90422012ddc6ddc
+| |\ \  Merge: 3c991dd6 145ffeed
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| |   Date:   Tue Mar 6 00:07:28 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         add Exp
+| | | 
+| * | commit 3c991dd67ffe2b66ba67f6447f450a739f57984f
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Mar 6 00:07:13 2018 +0530
+| |   
+| |       add dttextfield setup code in experiance
+| | 
+* | commit 145ffeedbbf8bd5f256f207531747817763b7a5c
+|/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|   Date:   Tue Mar 6 00:05:40 2018 +0530
+|   
+|       add Exp
+| 
+* commit 7912c331118929bfbf134ee8809c562497936f77
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Mar 5 22:04:02 2018 +0530
+| 
+|     Manage Add Verification Popup background
+| 
+* commit 52762a923498c15e18a001a15dbe5e79ebbf3415
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Mar 5 21:36:46 2018 +0530
+| 
+|     finetune verification flow
+| 
+* commit 29998fa63b28712db8caa6a864618ce2a244cd45
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Mon Mar 5 18:07:06 2018 +0530
+| 
+|     manage contact screen
+|   
+*   commit 1d3c998ff1652850572cb2d281d0673f05a24a1b
+|\  Merge: 8b888867 98fb635e
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Sun Mar 4 16:02:01 2018 +0530
+| | 
+| |     Merge
+| | 
+* | commit 8b88886782901a93ca16af5a7d0a3be331071cfd
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Sun Mar 4 15:58:15 2018 +0530
+| | 
+| |     All Changes
+| |   
+| *   commit 98fb635e0f2089650255b1564da57ec25e8b6f14
+| |\  Merge: 7e6ce38c c3aa8a65
+| | | Author: Vihaa Infotech <>
+| | | Date:   Sat Mar 3 23:59:50 2018 +0530
+| | | 
+| | |     ADD
+| | | 
+| * | commit 7e6ce38c36b9a61d57fd926d0e20a1f6c053c911
+|/ /  Author: Vihaa Infotech <>
+| |   Date:   Sat Mar 3 23:45:01 2018 +0530
+| |   
+| |       other docs
+| | 
+| * commit c3aa8a659858d58373e60b2533e82cb97412dc96
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 3 18:30:10 2018 +0530
+| | 
+| |     add activity indicator on add feed.
+| |   
+| *   commit a8ab0e4bf448eaf1c21dd0767ef0b45730ce5fa7
+| |\  Merge: a3bb95d2 9203b0b3
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/|   Date:   Sat Mar 3 17:48:52 2018 +0530
+| |   
+| |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |       
+| |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |         Store Local data in Core Data
+| |         Save local data
+| |         design identity
+| | 
+| * commit a3bb95d27a399cfc1e2ad0ef7235792cb1df2a02
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sat Mar 3 17:48:17 2018 +0530
+| | 
+| |     Cosmetic changes on Verification code.
+| | 
+* | commit 9203b0b37622fcd7784afd903b572d10ea1719c9
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Sat Mar 3 11:56:44 2018 +0530
+| | 
+| |     Store Local data in Core Data
+| |   
+* |   commit 7dab295a36c33c989370dfbf3d83d2657959ad25
+|\ \  Merge: 9b1c4f7a 2538711d
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Sat Mar 3 10:27:18 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     Code Merge
+| | | 
+* | | commit 9b1c4f7a2017979e9490008b3fc28ea3466fd16e
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Sat Mar 3 10:27:00 2018 +0530
+| | | 
+| | |     Save local data
+| | | 
+| * | commit 2538711d7630e5b5ccc0e33524f69316d279ec16
+| |/  Author: Vihaa Infotech <>
+| |   Date:   Sat Mar 3 03:27:27 2018 +0530
+| |   
+| |       design identity
+| | 
+| * commit 33be7e6e7903b90cd5f16bc226e01324d7e7f3e0
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Fri Mar 2 18:43:13 2018 +0530
+|   
+|       Verification screen (Education, Project and Experiance) changes .
+| 
+* commit 3a1d602c785037f73d9f22605915d51b0277c730
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Thu Mar 1 22:12:23 2018 +0530
+| 
+|     Manage contact screen.
+|   
+*   commit ab3ff0f85ad8f46dde3c56becaa0a1928b508c24
+|\  Merge: 953d1924 2481c42f
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Thu Mar 1 09:58:29 2018 +0530
+| | 
+| |     Merge
+| | 
+* | commit 953d192492f1918fd0c9016880b8f275977763ca
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Thu Mar 1 09:55:23 2018 +0530
+| | 
+| |     Profile Screen changes , Education add/edit/delete
+| | 
+| * commit 2481c42f22a16c5fb3dd35e8f694696c16a39187
+|/  Author: Vihaa Infotech <>
+|   Date:   Thu Mar 1 02:17:43 2018 +0530
+|   
+|       identity popups
+| 
+* commit 8f36fcca339b13fd9eefbfeb959d54bb5b291516
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Feb 28 19:07:24 2018 +0530
+| 
+|     manage Add Identity Type
+| 
+* commit 17c9fa75da9000223e686d9d9545be5fb2b287bf
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Wed Feb 28 13:26:12 2018 +0530
+| 
+|     add option type screen
+|   
+*   commit 325a665828e94489f853a3fff8d1692e40cdfbe2
+|\  Merge: 6bf6e575 34c4607a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Feb 28 10:22:07 2018 +0530
+| | 
+| |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| |     
+| |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| |       Verification
+| |   
+* |   commit 6bf6e5759c8ab765429507ad1f1cf0781b9e5010
+|\ \  Merge: 42694e44 5571729c
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Wed Feb 28 10:21:39 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       Contact changes
+| | |       A
+| | |       Project add/edit/delete
+| | |       Listing Data bind
+| | |       Education Design
+| | |     
+| | |     # Conflicts:
+| | |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | | 
+| | * commit 34c4607aaedc90da875fb8181ee75fc0534d4964
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+| |   Date:   Wed Feb 28 09:45:55 2018 +0530
+| |   
+| |       Verification
+| | 
+* | commit 42694e44e771a061fb90f8b46fa198948b5c45f5
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Feb 28 09:21:01 2018 +0530
+| | 
+| |     add identity option class
+| | 
+| * commit 5571729c3676853368f27d51484b0662f36f9eaa
+| | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | Date:   Wed Feb 28 08:28:45 2018 +0530
+| | 
+| |     Contact changes
+| |   
+| *   commit a78be9d0f72946cd27d71fd1b5423f918ae5e417
+| |\  Merge: 885b4be5 fbe4e9d1
+| | | Author: Vihaa Infotech <>
+| | | Date:   Wed Feb 28 00:49:02 2018 +0530
+| | | 
+| | |     educations
+| | |   
+| * |   commit 885b4be58a4cffa611c45727aa985fde0dca0942
+| |\ \  Merge: fc8bae9a d04c12db
+| | | | Author: Vihaa Infotech <>
+| | | | Date:   Wed Feb 28 00:45:31 2018 +0530
+| | | | 
+| | | |     educations
+| | | | 
+| | | * commit fbe4e9d1aab2a3e3952de4fc46147906329425de
+| | | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | | Date:   Wed Feb 28 00:36:31 2018 +0530
+| | | | 
+| | | |     A
+| | | | 
+| | | * commit 29a3d0fc7870de6984d6cb897bbaa55cfeadf2ac
+| | |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+| | |   Date:   Wed Feb 28 00:29:40 2018 +0530
+| | |   
+| | |       Project add/edit/delete
+| | |   
+| | *   commit d04c12dbbb543dba61b6a472d1fc40e2834df00b
+| | |\  Merge: eac8e737 8243aee7
+| |_|/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|/| |   Date:   Tue Feb 27 21:51:09 2018 +0530
+| | |   
+| | |       Merge code
+| | | 
+| | * commit eac8e737d135d3c8dea53a9c5ab00a06f8ec1c04
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Tue Feb 27 21:40:06 2018 +0530
+| | | 
+| | |     Listing Data bind
+| | | 
+* | | commit 8243aee78a981bb4feb051227f60a5873a0c16f9
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/|   Date:   Tue Feb 27 21:08:40 2018 +0530
+| |   
+| |       Add screens for Identity Options and list screen
+| |   
+* |   commit f71bcf724e3b0530f79826404fd1f2bc9c9a625a
+|\ \  Merge: c3f0f3ea e0d6c5d0
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Tue Feb 27 14:53:00 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     Code merge with Vishal
+| | | 
+* | | commit c3f0f3eaa270fd66ab0f5ff0645694bfcd71f55a
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Tue Feb 27 14:52:46 2018 +0530
+| | | 
+| | |     Edit Experiecne
+| | | 
+| * | commit e0d6c5d0520bf6cb88836a25692cc32d525efe75
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Feb 27 13:29:50 2018 +0530
+| | | 
+| | |     Add Gradient file
+| | |   
+| * |   commit dba52302a68cd85423a2cace4c3ac1fd879ac3b5
+| |\ \  Merge: 19fd2c0b 994a48ca
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Tue Feb 27 13:26:29 2018 +0530
+| | | | 
+| | | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | |     
+| | | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | | |       manage verification screen with card
+| | | |       manage card and other data
+| | | |       Save data and Experience
+| | | |     
+| | | |     # Conflicts:
+| | | |     #       LynkedWorld.xcodeproj/project.pbxproj
+| | | | 
+| * | | commit 19fd2c0bf548143954c07c3479e4ff13446a5cf3
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Tue Feb 27 13:25:06 2018 +0530
+| | | | 
+| | | |     Change gradient color for headers
+| | | | 
+| | * | commit 994a48caab66193b2929546a6f49826a05052c85
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Tue Feb 27 13:24:11 2018 +0530
+| | | | 
+| | | |     manage verification screen with card
+| | | |   
+| | * |   commit c3c991cac0d46f325d3e77a5656d22a2d9f5df2c
+| | |\ \  Merge: 2f453c50 6e0b373e
+| |_|/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| | |   Date:   Tue Feb 27 12:53:59 2018 +0530
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | |       
+| | | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | | |         Save data and Experience
+| | | |       
+| | | |       # Conflicts:
+| | | |       #       LynkedWorld.xcodeproj/project.pbxproj
+| | | | 
+| | * | commit 2f453c50d088106668c74d9294bfbb21d2ed9400
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | |   Date:   Tue Feb 27 12:52:00 2018 +0530
+| | |   
+| | |       manage card and other data
+| | | 
+* | | commit 6e0b373eb175b89cff4f25bb5032c4c6b8693d3b
+|/ /  Author: Vandan Javiya <javiyavandan@gmail.com>
+| |   Date:   Tue Feb 27 12:49:13 2018 +0530
+| |   
+| |       Save data and Experience
+| | 
+| * commit fc8bae9a56121130d4bb1178ce39194b2002efbd
+| | Author: Vihaa Infotech <>
+| | Date:   Tue Feb 27 00:52:26 2018 +0530
+| | 
+| |     Education Design
+| |   
+* |   commit 134f77ec18f48774aeda6e44609e9a3c9102d7d2
+|\ \  Merge: 6faec2cf 2b04dc74
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Feb 26 11:02:13 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |     
+| | |     * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |       Contacts Added after conflict
+| | |     
+| | |     # Conflicts:
+| | |     #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | | 
+* | | commit 6faec2cfec2a534b177997ee9e100a2b9fe5e6d6
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Feb 26 10:55:19 2018 +0530
+| | | 
+| | |     verification confliction resolve
+| | | 
+| * | commit 2b04dc74ddcf13e605b099510f18d5f529a032bb
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Mon Feb 26 10:49:52 2018 +0530
+| | | 
+| | |     Contacts Added after conflict
+| | |   
+* | |   commit 4a00cedcd51dc9ec0dac6ca4a1ceb8e889d3398f
+|\ \ \  Merge: 1e6a02aa 30f2a538
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | |   Date:   Mon Feb 26 10:43:53 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | |       
+| | |       * 'Development' of https://bitbucket.org/lynkedworldios/lynked.world:
+| | |         project screen
+| | |         set data
+| | |         Contacts
+| | |         experience design done
+| | |         COntacts
+| | |         exprience flow
+| | |         Verification
+| | |         UI Changes GetVerified
+| | |       
+| | |       # Conflicts:
+| | |       #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | | 
+* | | commit 1e6a02aad45b945d41ecdbee5fe3e1c8908acf0b
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Feb 26 10:43:02 2018 +0530
+| | | 
+| | |     added card design for authorize request
+| | |   
+| * |   commit 30f2a5383d73ccb638fa43da2d9fb3b7502b9b6c
+| |\ \  Merge: fff36124 c2288f1b
+| | |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+| | |   Date:   Mon Feb 26 10:33:15 2018 +0530
+| | |   
+| | |       Merge
+| | |   
+| * |   commit fff361240b60add3171d9ae643aa1587386b53cd
+| |\ \  Merge: 67409361 7e18baaa
+| | | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | | Date:   Mon Feb 26 10:30:36 2018 +0530
+| | | | 
+| | | |     Merge
+| | | | 
+| | | * commit c2288f1b3425f49841ebb83325f1d1fde624ee53
+| | | | Author: Vihaa Infotech <>
+| | | | Date:   Mon Feb 26 02:00:14 2018 +0530
+| | | | 
+| | | |     project screen
+| | | | 
+| | | * commit ee2cf7785586cdaa913aa40e732bc9255a03c64b
+| | |/  Author: Vihaa Infotech <>
+| | |   Date:   Sun Feb 25 19:59:30 2018 +0530
+| | |   
+| | |       set data
+| | | 
+| * | commit 67409361715f35e3f8789ab63ecb415523eb5fd3
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Sun Feb 25 15:03:25 2018 +0530
+| | | 
+| | |     Contacts
+| | |   
+| * |   commit cbf95bcffcdd4617efb81603195a4a6eddfa3444
+| |\ \  Merge: 064d280d b411d156
+| | | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | | Date:   Sun Feb 25 14:56:01 2018 +0530
+| | | | 
+| | | |     Merge
+| | | | 
+| | | * commit 7e18baaa9fe95bbc06de0b07ccf09755c78aa4e0
+| | |/  Author: Vihaa Infotech <>
+| | |   Date:   Sun Feb 25 14:29:15 2018 +0530
+| | |   
+| | |       experience design done
+| | | 
+| * | commit 064d280d32feee1f8298da25ef84711703d8568d
+| | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | Date:   Sun Feb 25 09:47:09 2018 +0530
+| | | 
+| | |     COntacts
+| | | 
+| | * commit b411d15616da0e8cd844119963cc0c0d53f82f3c
+| |/  Author: Vihaa Infotech <>
+| |   Date:   Sun Feb 25 03:53:23 2018 +0530
+| |   
+| |       exprience flow
+| |   
+| *   commit 84f098d08d89ef4d7e8ba87116dadd32eb2755df
+| |\  Merge: 4107da2b 77510e59
+| | | Author: Vihaa Infotech <>
+| | | Date:   Sat Feb 24 02:42:56 2018 +0530
+| | | 
+| | |     Verified Experince COntinue..
+| | | 
+| * | commit 4107da2b82bb110c3e7bc49bb30aa76c9f03f91c
+| | | Author: Vihaa Infotech <>
+| | | Date:   Sat Feb 24 00:10:31 2018 +0530
+| | | 
+| | |     Verification
+| | | 
+| | * commit 77510e596ef317bedd2925df300329744d4e2d50
+| |/  Author: Vandan Javiya <javiyavandan@gmail.com>
+|/|   Date:   Fri Feb 23 18:35:36 2018 +0530
+| |   
+| |       UI Changes GetVerified
+| | 
+* | commit 36c70b7ebcfae79374d8f96b44838c8c4cae4f22
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Feb 23 18:01:26 2018 +0530
+| | 
+| |     manage dataceess screen, authorize screen and other screens
+| | 
+* | commit d98e734d31d1d9bf50d3f761b26f96aa957e42cb
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Fri Feb 23 12:58:23 2018 +0530
+| | 
+| |     Change databse parameter
+| |   
+* |   commit 1cab6feb602888b6b57a8a4d4fb69dc9afe6982b
+|\ \  Merge: 0dbcc973 14870cd0
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Feb 23 12:36:11 2018 +0530
+| | | 
+| | |     Merge branch 'master' into Development
+| | |     
+| | |     * master:
+| | |       Remove iboutlet after change design for GetVerified
+| | |       Untracked files
+| | |       Verified Design
+| | | 
+| * | commit 14870cd0828915043b710c5016beee61d6eab6c5
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Fri Feb 23 11:43:16 2018 +0530
+| | | 
+| | |     Remove iboutlet after change design for GetVerified
+| | |   
+| * |   commit f04bf5b838b20e2f564e0fbf137a8b35284e367d
+| |\ \  Merge: dc276b4e 0dbcc973
+| |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| |   Date:   Fri Feb 23 11:27:00 2018 +0530
+| | |   
+| | |       Merge Branches
+| | |   
+* | |   commit 0dbcc9736273a64af873c837f64d984d7f674584
+|\ \ \  Merge: 4ea3f769 ef854fec
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Fri Feb 23 10:54:24 2018 +0530
+| | | | 
+| | | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | | 
+* | | | commit 4ea3f769418ba2ea105892afe546e09a940371cb
+| |_|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|/| |   Date:   Fri Feb 23 10:54:07 2018 +0530
+| | |   
+| | |       Resolve user profile issue and some design changes
+| | |   
+| | *   commit dc276b4e4d8b7db305f79b0eaff1bbec3064e645
+| | |\  Merge: 38369bf7 7a005d09
+| | | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | | Date:   Fri Feb 23 10:40:23 2018 +0530
+| | | | 
+| | | |     Untracked files
+| | | | 
+| | * | commit 38369bf71b4d6e9ee63a96741710a8085cc0e07a
+| | | | Author: Vandan Javiya <javiyavandan@gmail.com>
+| | | | Date:   Fri Feb 23 10:39:10 2018 +0530
+| | | | 
+| | | |     Untracked files
+| | | | 
+| * | | commit ef854fecc39af470802e576de0d116e91f925a5e
+|/ / /  Author: Vandan Javiya <javiyavandan@gmail.com>
+| | |   Date:   Fri Feb 23 09:55:55 2018 +0530
+| | |   
+| | |       Structure changes
+| | | 
+| | * commit 7a005d09d8d116dbf6692b0b0733f9358ba6df15
+| |/  Author: Vihaa Infotech <>
+| |   Date:   Fri Feb 23 09:20:25 2018 +0530
+| |   
+| |       Verified Design
+| | 
+* | commit 95e28ba635aea5e0aefe1ac3ec040660baa2315d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Thu Feb 22 18:52:11 2018 +0530
+| | 
+| |     manage some crashes and design issues
+| |   
+* |   commit bc9b224174394a474ad3ecfdba9824c4977e4bee
+|\ \  Merge: 3a7891b8 993fc8bd
+| | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | Date:   Fri Feb 16 13:01:36 2018 +0500
+| | | 
+| | |     remove conflicts in PinVC
+| | | 
+* | | commit 3a7891b8b8c3e98af39989a0fab756d3efaafa59
+| | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | Date:   Fri Feb 16 12:48:54 2018 +0500
+| | | 
+| | |     verify,icons etc
+| | | 
+| * | commit 993fc8bd2d791de641f5ed30c983ed9720e401fc
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Feb 15 15:43:33 2018 +0530
+| | | 
+| | |     change bundle identifier and local settings
+| | |   
+* | |   commit c29b19284b5341f21f7bc031d91e75d7708df4e5
+|\ \ \  Merge: e3fcb5df 491a1ee1
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Thu Feb 15 15:08:49 2018 +0500
+| | | | 
+| | | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+* | | | commit e3fcb5df5eb879916a206bde963be67a9ee4d946
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Thu Feb 15 15:08:22 2018 +0500
+| | | | 
+| | | |     m
+| | | |   
+| | * |   commit 9b4d0415be3eca6f26f1baec9c25b1355b36cafa
+| | |\ \  Merge: 5783eb9a 491a1ee1
+| | |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |/| |   Date:   Thu Feb 15 13:24:03 2018 +0530
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | |       
+| | | |       # Conflicts:
+| | | |       #       LynkedWorld.xcodeproj/project.pbxproj
+| | | | 
+| | * | commit 5783eb9a2edaa1c0d881f4b022fc66ad743bc824
+| | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | Date:   Thu Feb 15 13:18:02 2018 +0530
+| | | | 
+| | | |     Enable push notification
+| | | | 
+| * | | commit 491a1ee17bb9b861e131d2cb0a3f3df805123b1e
+| | | | Author: akhzar nazir <akhzarn@yahoo.com>
+| | | | Date:   Thu Feb 15 12:28:13 2018 +0500
+| | | | 
+| | | |     cc
+| | | |   
+| | * |   commit 94d483e79ba5adb165144d936d877f6c81ce2f32
+| | |\ \  Merge: c06c87fd 69fcb5d2
+| | | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | | Date:   Thu Feb 15 11:22:29 2018 +0530
+| | | | | 
+| | | | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | | |   
+| * | | |   commit 4632595525ef9440652fee07d02e123d5e06a37e
+| |\ \ \ \  Merge: 126bfebc 69fcb5d2
+| | | |/ /  Author: akhzar nazir <akhzarn@yahoo.com>
+| | |/| |   Date:   Thu Feb 15 05:49:07 2018 +0500
+| | | | |   
+| | | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | |   
+| * | | |   commit 126bfebc3aea8fd9fd3ef1f7cbef49ac1df8b67c
+| |\ \ \ \  Merge: 17458b2d 9ec78193
+| | | | | | Author: akhzar nazir <akhzarn@yahoo.com>
+| | | | | | Date:   Thu Feb 15 05:48:53 2018 +0500
+| | | | | | 
+| | | | | |     commit
+| | | | | | 
+| | | * | | commit 69fcb5d2f6d42c3212e3249d6fa4c3018c090445
+| | |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | |   Date:   Thu Feb 15 05:45:14 2018 +0500
+| | | | |   
+| | | | |       passcode check and crashes fixed
+| | | | |   
+| | | * |   commit c06c87fd393431fd0686bab9370e306daf6533dc
+| | | |\ \  Merge: 3193c7cd 9ec78193
+| | | |/ /  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | |/| |   Date:   Wed Feb 14 11:18:59 2018 +0530
+| | | | |   
+| | | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | | |       
+| | | | |       # Conflicts:
+| | | | |       #       LynkedWorld/StoryBoard/Base.lproj/Verification.storyboard
+| | | | | 
+| | | * | commit 3193c7cd4dd2598aa6d69f7856aff2ee442deb75
+| | | | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | | | Date:   Wed Feb 14 11:16:09 2018 +0530
+| | | | | 
+| | | | |     add documents popup
+| | | | | 
+| * | | | commit 17458b2d6199899f7a7176124b041f442600752a
+| | |_|/  Author: akhzar nazir <akhzarn@yahoo.com>
+| |/| |   Date:   Wed Feb 14 04:58:44 2018 +0500
+| | | |   
+| | | |       qr code scan
+| | | | 
+| | * | commit 9ec781935cda354e42c8bfac80b033b758fe0008
+| |/ /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| |   Date:   Wed Feb 14 04:54:40 2018 +0500
+| | |   
+| | |       auth confirm authentication screents
+| | |   
+* | |   commit cdc5d69f5ab36a13f33f9e440ebb3e87f1cc98a6
+|\ \ \  Merge: f5adcae4 033a1e35
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Wed Feb 14 04:10:39 2018 +0500
+| | | | 
+| | | |     remove conflicts
+| | | | 
+* | | | commit f5adcae4621d1aa11ee0a522e2faf87e6bea6cbf
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Wed Feb 14 04:04:48 2018 +0500
+| | | | 
+| | | |     APIs
+| | | | 
+| * | | commit 033a1e35f1fd0a97510bf97b77f6a41005ba7fe7
+|/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | |   Date:   Wed Feb 14 04:00:59 2018 +0500
+| | |   
+| | |       auth confirm authentication screent
+| | |   
+* | |   commit fe4f8e60cfa6fd2d3475b0026ded293c61c6d850
+|\ \ \  Merge: d8eefb80 3c96c9bd
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Tue Feb 13 02:54:14 2018 +0500
+| | | | 
+| | | |     cc
+| | | | 
+* | | | commit d8eefb80676079fcc590a736d9668d0d5abbd404
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Tue Feb 13 02:46:35 2018 +0500
+| | | | 
+| | | |     commit
+| | | | 
+| * | | commit 3c96c9bd80ac3afc7613f5e17d4a24642b546940
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Tue Feb 13 01:54:16 2018 +0500
+| | | | 
+| | | |     dataaccess request complete with api implemenation
+| | | |   
+| * | |   commit 6e19873e22f5f2da863823a390d83d4717085a56
+| |\ \ \  Merge: 1cc11877 bf189b9b
+| |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| | |   Date:   Mon Feb 12 23:02:21 2018 +0500
+| | | |   
+| | | |       dataaccess request complete
+| | | | 
+| * | | commit 1cc1187787acf0242e88544f84ca45f354b1d6fa
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Mon Feb 12 22:53:51 2018 +0500
+| | | | 
+| | | |     dataaccess requestdataaccess screen complete
+| | | | 
+* | | | commit bf189b9bd347882c4948134b36ca3c0595677326
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Mon Feb 12 22:40:12 2018 +0500
+| | | | 
+| | | |     delete duplicate VC in verfiy storyboard remove conflicts
+| | | |   
+* | | |   commit 5f4030b7f66eaeeb129181f521c99fb08f4cfd3d
+|\ \ \ \  Merge: 38a9305f eada0621
+| |/ / /  Author: EAhsan <engr.ahsun@gmail.com>
+| | | |   Date:   Mon Feb 12 22:29:49 2018 +0500
+| | | |   
+| | | |       GetVerifyVC , Get Requestt
+| | | | 
+* | | | commit 38a9305fdbca89440663c8af156cdfe4df1ab8c2
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Mon Feb 12 22:14:28 2018 +0500
+| | | | 
+| | | |     getVerifyVC
+| | | | 
+| * | | commit eada0621736a1c4343cc1316474ac487b894ca68
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Mon Feb 12 19:06:27 2018 +0500
+| | | | 
+| | | |     dataaccess screen mergessss
+| | | |   
+| * | |   commit c43543d0ac8634a20eb6519d77415f66d4a31f50
+| |\ \ \  Merge: e4febfa5 6734565a
+| |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| | |   Date:   Mon Feb 12 12:04:48 2018 +0500
+| | | |   
+| | | |       dataaccess screen mergess
+| | | | 
+| * | | commit e4febfa51bddcb6442dfce4532bd5198a0592b6d
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Mon Feb 12 12:03:28 2018 +0500
+| | | | 
+| | | |     dataaccess screen merge
+| | | |   
+* | | |   commit 6734565a754d250abc2bc6fb561a4609c1519d21
+|\ \ \ \  Merge: e01ffca5 2e60b6a7
+| |/ / /  Author: EAhsan <engr.ahsun@gmail.com>
+| | | |   Date:   Sun Feb 11 19:46:53 2018 +0500
+| | | |   
+| | | |       cc
+| | | | 
+* | | | commit e01ffca5ee8ebbe536a856cbc7130e117a51dd65
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sun Feb 11 19:04:49 2018 +0500
+| | | | 
+| | | |     cc
+| | | | 
+* | | | commit 56ad1a31de57634d5b1adea667738f33601c71b4
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sat Feb 10 20:47:48 2018 +0500
+| | | | 
+| | | |     social media, Get verified request
+| | | | 
+| * | | commit 2e60b6a7e109ae9d98e681e440dd704797662db1
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Sat Feb 10 17:12:59 2018 +0500
+| | | | 
+| | | |     before pull ahsan codes
+| | | | 
+| * | | commit f2e496a5672ca490114d01fdf68448fe31269b37
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Sat Feb 10 12:57:14 2018 +0500
+| | | | 
+| | | |     before pull ahsan code
+| | | |   
+| * | |   commit 5f350f009a70a30e089379944fd7ffc9d208a3b1
+| |\ \ \  Merge: 7407768b 4c64b70b
+| |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| | |   Date:   Fri Feb 9 23:50:34 2018 +0500
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+| * | | commit 7407768bb0a552c6306ae6f4f9b754118bae5464
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Fri Feb 9 23:50:05 2018 +0500
+| | | | 
+| | | |     dataAccessRequestScreen
+| | | | 
+* | | | commit 4c64b70b44d8af45ea3e2e19c7a8fc08a61a1a25
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Fri Feb 9 23:35:39 2018 +0500
+| | | | 
+| | | |     socialmedia,edit profiel
+| | | |   
+| * | |   commit 8cfe593cad3689d2f932d8c9fc8ea5ae488686ed
+| |\ \ \  Merge: 628f10e8 817cc1d2
+| |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| | |   Date:   Thu Feb 8 23:04:33 2018 +0500
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+| * | | commit 628f10e8ad419ad1f4c8b1b0d6a55f4c684cea96
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Thu Feb 8 23:04:09 2018 +0500
+| | | | 
+| | | |     commit
+| | | | 
+* | | | commit 817cc1d26330243b083ae420c0b5ebe2c6ba7213
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Thu Feb 8 16:33:34 2018 +0500
+| | | | 
+| | | |     Post detail comments height issue fixed, Privacy screen, ChangeALVC
+| | | |   
+| * | |   commit b4764fa22cfd7fbb6eeabfa0634e6b8c3972423a
+| |\ \ \  Merge: 69a4465a b3dea859
+| |/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| | |   Date:   Thu Feb 8 10:57:17 2018 +0500
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+| * | | commit 69a4465a3c7521446ebcbff94c2b04217c7a81a5
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Thu Feb 8 10:56:55 2018 +0500
+| | | | 
+| | | |     commit
+| | | | 
+* | | | commit b3dea85975c9b531deb886c764fad9024f137290
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Wed Feb 7 12:31:23 2018 +0500
+| | | | 
+| | | |     My Wallet VC
+| | | |   
+* | | |   commit 372e3fca25833bd750b37b2b3a41444feee4a6d5
+|\ \ \ \  Merge: 57afb708 f7902062
+| |/ / /  Author: EAhsan <engr.ahsun@gmail.com>
+| | | |   Date:   Wed Feb 7 12:21:16 2018 +0500
+| | | |   
+| | | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+* | | | commit 57afb708f14234931e9eab4edc8ea0aca50e2a56
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Wed Feb 7 12:20:52 2018 +0500
+| | | | 
+| | | |     My Wallet VC
+| | | | 
+| * | | commit f790206293d65f0c527103e74c2ce0a0782adb92
+|/ / /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | |   Date:   Tue Feb 6 20:44:28 2018 +0500
+| | |   
+| | |       add feedback and ratemyapplication done
+| | | 
+* | | commit d03c995f567e06915aa129673f24ecafe9e76a3e
+| | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | Date:   Tue Feb 6 12:13:31 2018 +0500
+| | | 
+| | |     git file update
+| | |   
+* | |   commit 65332d7981f1a8e9dbdce7901a91a87d669398b2
+|\ \ \  Merge: 1dd091ed 6df0c192
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Tue Feb 6 12:07:44 2018 +0500
+| | | | 
+| | | |     Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world
+| | | | 
+* | | | commit 1dd091ed2c39e77fc09c4c783cb80becedb0bde7
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Tue Feb 6 12:07:20 2018 +0500
+| | | | 
+| | | |     gitignore file update
+| | | | 
+| * | | commit 6df0c1927da328cccc0306b4c72fa3a28db3cb4c
+|/ / /  Author: akhzar nazir <akhzarn@yahoo.com>
+| | |   Date:   Tue Feb 6 12:02:13 2018 +0500
+| | |   
+| | |       Accept Friend
+| | |   
+* | |   commit 7070dba69e456dd99b1a48687b25cb0a051dfcc3
+|\ \ \  Merge: 838d55b5 d384eb48
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Mon Feb 5 23:10:37 2018 +0500
+| | | | 
+| | | |     Notification,aboutus,privacypoicay,termandcondition
+| | | | 
+* | | | commit 838d55b509afbff026a504078352f446a83dbe6b
+| |/ /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+|/| |   Date:   Mon Feb 5 20:41:44 2018 +0500
+| | |   
+| | |       comit for pull development
+| | |   
+| | *   commit 9c2db1ba2b4bc42beb5bc5d24a709f40a0e6c167
+| | |\  Merge: a5d9dae4 d384eb48
+| | |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |/|   Date:   Sun Feb 4 17:26:35 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/lynkedworldios/lynked.world into Development
+| | | 
+| | * commit a5d9dae4248b8a460420a8cf6b47f18baee9a47c
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Feb 4 17:15:42 2018 +0530
+| | | 
+| | |     manage education and experiance.
+| | | 
+| * | commit d384eb485ebd57f4ffb8f67379eff6a4329e996a
+| | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | Date:   Sun Feb 4 00:17:55 2018 +0500
+| | | 
+| | |     myJobs api, applyjob,mygroup View controller
+| | |   
+| * |   commit 0a56b3d92fdd6e58656229cdbbf5e602568eb203
+| |\ \  Merge: a7d44e15 71657a41
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sat Feb 3 23:57:51 2018 +0500
+| | | | 
+| | | |     myJobs api, applyjob,mygroup View controller
+| | | | 
+| * | | commit a7d44e159e611bf163dff16ac824c03438ae9bed
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sat Feb 3 23:51:47 2018 +0500
+| | | | 
+| | | |     myJobs api, applyjob,mygroup View controller
+| | | | 
+| | * | commit 71657a41028c8b333e824d0a29b700312af4acbd
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Sat Feb 3 23:35:30 2018 +0500
+| | | | 
+| | | |     invite screen
+| | | | 
+| | * | commit e9a4b4a252175dcd7b2d6f8d238451363c71a4f3
+| |/ /  Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | |   Date:   Sat Feb 3 23:31:24 2018 +0500
+| | |   
+| | |       .DS_Store removed.
+| | | 
+| * | commit c885e7232f70cdfb8f3836d39a847833e30f9639
+| | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | Date:   Sat Feb 3 02:03:29 2018 +0500
+| | | 
+| | |     profile,cover,userdetail,poll,group,job
+| | | 
+| * | commit 5a329784a0e932db60cf375843559c07f8ae5558
+| | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | Date:   Sat Feb 3 01:55:50 2018 +0500
+| | | 
+| | |     commit
+| | |   
+| * |   commit 489e582d095081760c1e873f90ea34835c5d6e50
+| |\ \  Merge: 9ae5e868 8d044dec
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sat Feb 3 01:55:07 2018 +0500
+| | | | 
+| | | |     commit
+| | | | 
+| * | | commit 9ae5e868091b2ae6b246645678f478d4210190a6
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Sat Feb 3 01:45:24 2018 +0500
+| | | | 
+| | | |     profile,cover,poll,group,job
+| | | | 
+| | * | commit 8d044dec77df7fab707c09fb3026488d1471e3f9
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Sat Feb 3 01:39:25 2018 +0500
+| | | | 
+| | | |     feed like dislike feed comment implementation
+| | | | 
+| | * | commit 0c61819ffab9e73e4d960c80feafc721e364af49
+| | | | Author: Akhzar Nazir <link2akhzar@gmail.com>
+| | | | Date:   Sat Feb 3 00:51:20 2018 +0500
+| | | | 
+| | | |     Like and comment count done feed screen feed commentlist post comment done
+| | | | 
+| * | | commit d773fa67a3870d0b1f7ce68513085fc6b44f216f
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Fri Feb 2 19:06:11 2018 +0500
+| | | | 
+| | | |     Profile image, cover Image, Userdata
+| | | | 
+| * | | commit 89df6186e5d97d6258c18f92b0dd070f03d37d9a
+| | | | Author: EAhsan <engr.ahsun@gmail.com>
+| | | | Date:   Fri Feb 2 18:52:46 2018 +0500
+| | | | 
+| | | |     profile vc
+| | | | 
+| * | | commit 027a40ed382575c48122e73057b53b7646caab36
+| | |/  Author: EAhsan <engr.ahsun@gmail.com>
+| |/|   Date:   Fri Feb 2 18:43:48 2018 +0500
+| | |   
+| | |       Profile image cover image update user data"
+| | | 
+| | * commit a4ab19264d68fe067e56826920c8afbfa5b32b48
+| |/  Author: Akhzar Nazir <link2akhzar@gmail.com>
+| |   Date:   Fri Feb 2 00:36:18 2018 +0500
+| |   
+| |       my jobs and main feed screen like or dislike now implemet from api
+| | 
+| * commit ff00865aaae74ac8923404f970405b3f68adb39a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 31 19:40:06 2018 +0530
+| | 
+| |     manage profile crash and other issues
+| |   
+| *   commit 5d070d9854aa38337c35c9011ba7251a8a4427df
+| |\  Merge: 745fb92a e9c79182
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Jan 30 18:23:18 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit 745fb92a2d79c8b60a4e46737894ea10910d4a07
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Tue Jan 30 18:22:40 2018 +0530
+| | | 
+| | |     manage local data and data request access
+| | | 
+| | * commit e9c791825c01a7355ee49877b02322acc82e93be
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Tue Jan 30 11:33:59 2018 +0530
+| | | 
+| | |     close image change
+| | |   
+| | *   commit 03f3774b89398a9741af988de0ba9c692a2de003
+| | |\  Merge: a581e197 255dc47b
+| | |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |/|   Date:   Tue Jan 30 10:58:38 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| | * commit a581e19752c52835f0a0d37c1b339b4ba9663447
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Tue Jan 30 10:58:20 2018 +0530
+| | | 
+| | |     manage blog design
+| | | 
+| * | commit 255dc47b301669f82e62bb20ab80792948ec4a98
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Tue Jan 30 10:26:53 2018 +0530
+| |   
+| |       add verification class
+| | 
+| * commit e02cf55adebd4cb1abda4a22f893b4a75056ed7c
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Mon Jan 29 12:45:27 2018 +0530
+| | 
+| |     manage blog and document access screen.
+| | 
+| * commit 096140b3dabd2c5f0d4367dbb5343659502ef40a
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Sun Jan 28 20:42:43 2018 +0530
+| | 
+| |     Create Blog design change
+| | 
+| * commit 3fa0504a50f19a0d5783a0de9d83dc48c7f54afd
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Sun Jan 28 20:38:43 2018 +0530
+| | 
+| |     manage Blogs
+| |   
+| *   commit 655addd22bb965fc9a9dd0134407cb0511e086b3
+| |\  Merge: d655d5be 7e2aa48b
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Jan 28 20:16:21 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | |     
+| | |     # Conflicts:
+| | |     #       LynkedWorld/StoryBoard/Applications.storyboard
+| | |     #       LynkedWorld/StoryBoard/Base.lproj/Feed.storyboard
+| | | 
+| * | commit d655d5be3747e67b71445954eec7c923079deaa8
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Jan 28 20:12:49 2018 +0530
+| | | 
+| | |     remove background color on feed details
+| | | 
+| * | commit cf4cad472727111d1ab268bd2e59832828b4e72d
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Jan 28 20:11:34 2018 +0530
+| | | 
+| | |     post detail screen
+| | | 
+| | * commit 7e2aa48b5b1cc3c327cf855991daa522ad821862
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Sun Jan 28 15:43:23 2018 +0530
+| |   
+| |       blog
+| |   
+| *   commit 587daa3f4a522c390a6e14b5560ad1c8b673546e
+| |\  Merge: f775d3ec 98a286ab
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Jan 28 14:39:57 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | |     
+| | |     # Conflicts:
+| | |     #       LynkedWorld/StoryBoard/Applications.storyboard
+| | | 
+| * | commit f775d3ec287aeef716b0a45c3f2ef5d77bea6a43
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Sun Jan 28 14:36:38 2018 +0530
+| | | 
+| | |     manage poll create
+| | | 
+| | * commit 98a286abd0e8b3c84bd50df6d7a7b2979b7bf719
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Sun Jan 28 14:35:09 2018 +0530
+| |   
+| |       add job
+| | 
+| * commit e8f9a6e317be8bddc867aa4cf3de8c0d1ab1cc37
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 26 23:20:31 2018 +0530
+| | 
+| |     manage local db
+| |   
+| *   commit 8413fe1a323d28c95ff84b9764caad5e9b85df5b
+| |\  Merge: d2146706 305e40d6
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Wed Jan 24 19:17:08 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | |     
+| | |     # Conflicts:
+| | |     #       LynkedWorld/Controllers/Setting/SettingMainVC.swift
+| | | 
+| | * commit 305e40d67ea289ac1b20b37c765a03d697de6909
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Wed Jan 24 19:15:31 2018 +0530
+| | | 
+| | |     lynnked world database added
+| | | 
+| * | commit d214670638a6de15646d5ad585172ffb045990e8
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Wed Jan 24 19:03:44 2018 +0530
+| | | 
+| | |     remove SQLite pod and other data
+| | | 
+| * | commit 77c4fddfa4a987ada7ec8e23f8c09f5ca66b0596
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Tue Jan 23 20:39:12 2018 +0530
+| | | 
+| | |     added data
+| | | 
+| * | commit 692a68153fefced24b92102706dcc7f589988a39
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Tue Jan 23 20:38:51 2018 +0530
+| |   
+| |       added local db
+| | 
+| * commit 27562b91dc429e1ce417575a95d02fa6a819101b
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Mon Jan 22 13:05:16 2018 +0530
+| | 
+| |     integrate pollsurvey and other screen designs
+| |   
+| *   commit d482a5f8778cdfe591c7c92c2f2476ddafb34bfc
+| |\  Merge: ae7823b4 3d8cdeda
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Jan 22 11:50:34 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit ae7823b4c6f4d41cb165a71d1bce03cabe545975
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Mon Jan 22 11:49:18 2018 +0530
+| | | 
+| | |     Manage scan on mobile QRstring
+| | | 
+| | * commit 3d8cdedaf498523caed44ec3669b33a001582e08
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Sat Jan 20 18:50:35 2018 +0530
+| |   
+| |       verified scrren design
+| | 
+| * commit fd1b0cb2bd19427f9e35ad22b65922a682b16149
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 19 23:54:41 2018 +0530
+| | 
+| |     manage who are you screen.
+| | 
+| * commit 43291b8c6d9e3493c06f1055b128ec0d500c9050
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Thu Jan 18 21:20:42 2018 +0530
+| | 
+| |     design for get verified identity popup and others
+| |   
+| *   commit c4aec4d6d5a347239f4eede1a693560ecc149a91
+| |\  Merge: e43205c1 2be7cd56
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 18 04:50:58 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit e43205c1b11d90639698c89c904a074afff37589
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 18 04:50:39 2018 +0530
+| | | 
+| | |     design get verified screen
+| | | 
+| | * commit 2be7cd567382e57f2d68330ae4b6884e2442148d
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Thu Jan 18 04:50:02 2018 +0530
+| |   
+| |       design screens
+| | 
+| * commit 15cc16845a88cad71f0e753da32f707dfac81074
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 17 19:19:14 2018 +0530
+| | 
+| |     added default images and add feed issue resolved.
+| | 
+| * commit a4ef9729ec2213b75d8a929cafea2fd97f99c97f
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 17 11:19:34 2018 +0530
+| | 
+| |     manage identity
+| | 
+| * commit fe7473f369116e0a0963d13acd6e55b9cf60de8e
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 17 03:01:33 2018 +0530
+| | 
+| |     Manage connections
+| | 
+| * commit 949d0ad62902f39f42ce718af8f0998b72fc5989
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 16 11:25:03 2018 +0530
+| | 
+| |     manage connection network screen
+| | 
+| * commit a53a48460708ffc55f72d61ee4db8c4e54665537
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 12 21:36:24 2018 +0530
+| | 
+| |     new post added
+| | 
+| * commit 4aec8a22c733130fa931e151ab69f2082326cd54
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 12 18:12:09 2018 +0530
+| | 
+| |     manage profile
+| | 
+| * commit cfb11bad93b57e470b4b974ee7b52bd8d237b500
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 12 16:16:51 2018 +0530
+| | 
+| |     manage profile
+| |   
+| *   commit ded47b6777a843681788acaba3a0b15ba561a932
+| |\  Merge: dde8e11d e9436547
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Fri Jan 12 15:40:22 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit dde8e11dbc48dd856093e51d16d79a1c2e9a07fb
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Fri Jan 12 15:40:06 2018 +0530
+| | | 
+| | |     manage experiance, education and project
+| | | 
+| | * commit e94365471bb7697a407ba9ec249cac856d7db5d5
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Fri Jan 12 15:39:30 2018 +0530
+| |   
+| |       user details added
+| | 
+| * commit efab7f530762afc8507c5ba9648957c9ac7b13b0
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Fri Jan 12 11:58:59 2018 +0530
+| | 
+| |     refresh profile
+| |   
+| *   commit dbbc66e448a0ca538b0e21305cb33de20aaf73ad
+| |\  Merge: d67eb16f bcbf4330
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Fri Jan 12 11:56:02 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit d67eb16f99a71473a5530a772a3449e8dc2a1926
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Fri Jan 12 11:54:37 2018 +0530
+| | | 
+| | |     manage delegate for profile screen
+| | | 
+| | * commit bcbf4330b3f8e25fe092ead5a6ecc0ef9b5662df
+| |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |   Date:   Fri Jan 12 11:53:28 2018 +0530
+| |   
+| |       profile update manage
+| | 
+| * commit f7033f222345518fcb747cdc840fed725f0ef872
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Thu Jan 11 21:32:41 2018 +0530
+| | 
+| |     connection
+| |   
+| *   commit 22a120e1f114c4396e13d45aca2ffd804c687858
+| |\  Merge: 50d047bb 5615f245
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 11 20:52:33 2018 +0530
+| | | 
+| | |     Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | | 
+| * | commit 50d047bbee1c22e23493965db70725125bf67008
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 11 20:51:58 2018 +0530
+| | | 
+| | |     connection - jigar
+| | | 
+| | * commit 5615f245f6c874c6ef95ea76ad9bb2cc660e0911
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 11 20:51:19 2018 +0530
+| | | 
+| | |     resolve confliction
+| | |   
+| | *   commit f3c4b07c5b1220a5d7e697de50f040e23352f42b
+| | |\  Merge: df58ca07 7c4821ab
+| | |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |/|   Date:   Thu Jan 11 20:27:15 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | |       
+| | |       # Conflicts:
+| | |       #       LynkedWorld.xcodeproj/project.pbxproj
+| | | 
+| * | commit 7c4821ab267ba8738cdf7084d7f6262d7b50f0b2
+| | | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 11 20:21:47 2018 +0530
+| | | 
+| | |     connection - jigar
+| | |   
+| | *   commit df58ca074c1068948755c4405846df9103e4087f
+| | |\  Merge: 4895a0a2 ef1773da
+| | |/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+| |/|   Date:   Thu Jan 11 20:21:02 2018 +0530
+| | |   
+| | |       Merge branch 'Development' of https://bitbucket.org/vishalg_arusys/lynked.world into Development
+| | |       
+| | |       # Conflicts:
+| | |       #       LynkedWorld.xcodeproj/project.pbxproj
+| | |       #       Podfile
+| | |       #       Podfile.lock
+| | |       #       Pods/Manifest.lock
+| | |       #       Pods/Pods.xcodeproj/project.pbxproj
+| | |       #       Pods/Target Support Files/Pods-LynkedWorld/Pods-LynkedWorld-acknowledgements.markdown
+| | |       #       Pods/Target Support Files/Pods-LynkedWorld/Pods-LynkedWorld-acknowledgements.plist
+| | |       #       Pods/Target Support Files/Pods-LynkedWorld/Pods-LynkedWorld-frameworks.sh
+| | |       #       Pods/Target Support Files/Pods-LynkedWorld/Pods-LynkedWorld.debug.xcconfig
+| | |       #       Pods/Target Support Files/Pods-LynkedWorld/Pods-LynkedWorld.release.xcconfig
+| | |       #       Pods/Target Support Files/Pods-LynkedWorldTests/Pods-LynkedWorldTests.debug.xcconfig
+| | |       #       Pods/Target Support Files/Pods-LynkedWorldTests/Pods-LynkedWorldTests.release.xcconfig
+| | |       #       Pods/Target Support Files/Pods-LynkedWorldUITests/Pods-LynkedWorldUITests.debug.xcconfig
+| | |       #       Pods/Target Support Files/Pods-LynkedWorldUITests/Pods-LynkedWorldUITests.release.xcconfig
+| | | 
+| | * commit 4895a0a25fa6409c5f8c989a0d2f1c70870dfdec
+| | | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | | Date:   Thu Jan 11 20:15:00 2018 +0530
+| | | 
+| | |     manage edit profile screen
+| | | 
+| * | commit ef1773daf787e01e0dfff6755663a29f9c92a2dd
+| |/  Author: Vishal MacPro <vishal.gohel@arusys.com>
+| |   Date:   Thu Jan 11 19:56:38 2018 +0530
+| |   
+| |       Design for messages screen and other setup
+| | 
+| * commit 276a0dd611692218f9f5d68d4db1e880e11f1a4f
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 10 23:24:17 2018 +0530
+| | 
+| |     pod insall
+| | 
+| * commit 89d646a994bbfaccc1d9ae2fe341d4eb61f92b6a
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 10 12:22:01 2018 +0530
+| | 
+| |     added slideControl for poll slider
+| | 
+| * commit 97345832314acafa61eb8d3dcf9f7d6b497d4e1d
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 10 12:08:00 2018 +0530
+| | 
+| |     resolve pagination issue
+| | 
+| * commit 26a32a7b76febf186a5ee00e6a820c733973a899
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Wed Jan 10 11:50:03 2018 +0530
+| | 
+| |     manage feed and added pagination on feed
+| | 
+| * commit 46fa258aa59a42ff00fc7f7dcae94fb059db2655
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 9 18:36:46 2018 +0530
+| | 
+| |     Feed cell design
+| | 
+| * commit 1a54f26c205df8c57655ded1cf43177dccf014a6
+| | Author: Vishal MacPro <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 9 14:43:58 2018 +0530
+| | 
+| |     manage feed details
+| | 
+| * commit 43409f07c01cd7a410ac8f7119eff3e27c8aa92e
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 9 14:02:55 2018 +0530
+| | 
+| |     date format added
+| | 
+| * commit 5232d4670ce9fa1cb663150c9073bb803e306c1b
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 9 12:42:54 2018 +0530
+| | 
+| |     manage feed
+| | 
+| * commit f5a21d9521f667402d8779871ca480a68962a976
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Tue Jan 9 04:20:37 2018 +0530
+| | 
+| |     feed manage
+| | 
+| * commit 2c1f98a00933be67e4456e29c45a72ec2c4f70ac
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Mon Jan 8 18:33:24 2018 +0530
+| | 
+| |     Manage feed model class
+| | 
+| * commit 4468d3ad85e3dde9391bf8a0afea4554b4d98f34
+|/  Author: Vishal Gohel <vishal.gohel@arusys.com>
+|   Date:   Mon Jan 8 11:55:31 2018 +0530
+|   
+|       Feed array added
+| 
+* commit b12da0dcb6323d36dee77aa8e447202987fd3686
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sun Jan 7 18:08:02 2018 +0530
+| 
+|     comit
+| 
+* commit 329b410aad1429aa8bd4cd9beed842fd744ec438
+| Author: Vishal MacMini <vishal.gohel@arusys.com>
+| Date:   Sun Jan 7 17:33:46 2018 +0530
+| 
+|     comit
+| 
+* commit c408e700f946b4796d76ef68d3177fc5abf174e5
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sun Jan 7 16:57:24 2018 +0530
+| 
+|     added connection for done tapped
+|   
+*   commit a29f1bbc15dc51ef39ff8b37c660748aab99e936
+|\  Merge: 77dea10a 63e06de8
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sun Jan 7 16:54:17 2018 +0530
+| | 
+| |     Merge branch 'master' of https://bitbucket.org/vishalg_arusys/lynked.world
+| | 
+* | commit 77dea10a537e778b2ae0f1b5f5c19b78d61dc060
+| | Author: Vishal Gohel <vishal.gohel@arusys.com>
+| | Date:   Sun Jan 7 16:53:58 2018 +0530
+| | 
+| |     add edit profile controller
+| | 
+| * commit 63e06de825dc2fb8342763554aa0f0524b7b5613
+|/  Author: Vishal MacMini <vishal.gohel@arusys.com>
+|   Date:   Sun Jan 7 16:53:10 2018 +0530
+|   
+|       comit for add media and feed model
+| 
+* commit f8777545548a6f1d4646d21f4ab5a98ef26d797e
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sun Jan 7 14:37:32 2018 +0530
+| 
+|     added screen on storyboard
+| 
+* commit ed4e43311808056211c7c3f01d868774173091bf
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Jan 6 17:28:51 2018 +0530
+| 
+|     api integration for logout and other.
+| 
+* commit 8de9bcc9829be2e8a50ce7eb7e306a1bad349171
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Jan 6 15:08:52 2018 +0530
+| 
+|     api integration
+| 
+* commit dfc6cb9f82b65523a3104d96b79e42f7894e0469
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Jan 6 10:20:08 2018 +0530
+| 
+|     all changes
+| 
+* commit 0b11db81961fc16adc9a3e66c5368c55d28ff910
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Jan 6 10:19:52 2018 +0530
+| 
+|     all data
+| 
+* commit fc522152fa6a18dcac13e6046d3e5648bf0db43d
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Sat Dec 16 11:40:26 2017 +0530
+| 
+|     New Authentication flow
+| 
+* commit 8663973ee2b85699523d6c90ca8cfe1a5595b5c0
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Dec 12 19:07:59 2017 +0530
+| 
+|     Screen designs
+| 
+* commit 8e5420b2d3523fa6a179af815f280c7d5465215a
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Nov 21 15:15:58 2017 +0530
+| 
+|     Added Camera and navbar details
+| 
+* commit ca1588b3264f77021e6724d0a03e9c1294da4ee3
+| Author: Vishal Gohel <vishal.gohel@arusys.com>
+| Date:   Tue Nov 21 13:35:52 2017 +0530
+| 
+|     Project setup and design
+| 
+* commit 3cbf4e8ac1ac35629f87c3fea8ca33e62b5abc5f
+  Author: Macbook <macbook@Macbooks-MacBook-Pro.local>
+  Date:   Wed Nov 1 12:51:18 2017 +0530
+  
+      Initial Commit
