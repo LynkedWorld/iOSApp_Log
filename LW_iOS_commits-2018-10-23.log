@@ -1,0 +1,23 @@
+* commit 3e0622c259e1edc172ade2db72a8e8b78670cc60
+| Author: Vishal Gohel <Vishal.gohel@arusys.com>
+| Date:   Tue Oct 23 21:34:43 2018 +0530
+| 
+|     Issued ID card, added document type
+| 
+* commit 1beac44f351a796fbe5a09a980423ecfb74a7bcf
+| Author: Vishal Gohel <Vishal.gohel@arusys.com>
+| Date:   Tue Oct 23 19:53:21 2018 +0530
+| 
+|     manage Requested and verified list from user profile.
+| 
+* commit df61250c5af9652105b32e438a44399124f09851
+| Author: Vishal Gohel <Vishal.gohel@arusys.com>
+| Date:   Tue Oct 23 19:19:01 2018 +0530
+| 
+|     manage cancel verification request and view verified history.
+| 
+* commit 66a609c2e8738e5211d4325608939c56093deee5
+  Author: Vishal Gohel <Vishal.gohel@arusys.com>
+  Date:   Tue Oct 23 11:34:50 2018 +0530
+  
+      Change label of DOB and Complete Request history
